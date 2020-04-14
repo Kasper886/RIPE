@@ -1,0 +1,972 @@
+0. 23.109.0.0/16 
+bk@servers.com abuse@servers.com abuse@servers.ru 
+
+1. 31.144.0.0/16 
+noc@umc.com.ua noc@vodafone.ua abuse@mts.com.ua noc@mts.com.ua jar@umc.com.ua noc@tsua.net 
+
+2. 37.141.0.0/16 
+abuse@mobily.com.sa RIPE-ADMIN@mobily.com.sa RIPE-Admin@mobily.com.sa s.mohamed@mobily.com.sa B-RIPE-TECH@mobily.com.sa M-RIPE-TECH@mobily.com.sa mbnoc@mobily.com.sa a.baghir@mobily.com.sa 
+
+3. 37.149.0.0/16 
+c.christophorou@cytanet.com.cy abuse@cytanet.com.cy registry@cytanet.com.cy lir@cytanet.com.cy christakis.christophorou@cyta.com.cy iasonasc@cytanet.com.cy 
+
+4. 62.130.0.0/16 
+Tony.Glenholmes@nhs.net Kieran.mcconville@hscni.net tony.glenholmes@nhs.net martin.slater@nhs.net ipamteam@nhs.net darren.marshall@redcentricplc.com abuse@redcenticplc.com 
+
+5. 62.136.0.0/16 
+ipadmin@vodafone.com ncipsupport@vodafone.com ipabuse@vodafone.co.uk ipadmin@eu.cw.net ripe-adm@energis.com abuse@vodafone.com peter.byrne@cwcom.co.uk ipadmin@de.cw.com peeringsupport@vodafone.com transportukipcore@vodafone.com peeringrequest@vodafone.com peering-support@cw.net peering-request@cw.net ipv6@cw.net ipmulticast@cw.net ipadmin@cw.net 
+
+6. 62.137.0.0/16 
+ipadmin@vodafone.com ncipsupport@vodafone.com ipabuse@vodafone.co.uk ipadmin@eu.cw.net ripe-adm@energis.com abuse@vodafone.com peter.byrne@cwcom.co.uk ipadmin@de.cw.com peeringsupport@vodafone.com transportukipcore@vodafone.com peeringrequest@vodafone.com peering-support@cw.net peering-request@cw.net ipv6@cw.net ipmulticast@cw.net ipadmin@cw.net 
+
+7. 62.184.0.0/16 
+daniel.rueegg@intl.att.com drueegg@emea.att.com euabsipa@emea.att.com euabsnic@emea.att.com abuse@att.net emeadnr@emea.att.com daniel.rueegg@int.att.com dr6348@att.com dani_rueegg@ch.ibm.com euibmipa@nl.ibm.com martin.zuber@ch.ibm.com ROB.JUKES@UNITEDKINGDOM.ATTGIS.COM steve.bowden@unitedkingdom.ncr.com kennethh@dk.ibm.com huntj@uk.att.com david.delchar@att.com 
+
+8. 62.185.0.0/16 
+daniel.rueegg@intl.att.com drueegg@emea.att.com euabsipa@emea.att.com euabsnic@emea.att.com abuse@att.net emeadnr@emea.att.com daniel.rueegg@int.att.com dr6348@att.com dani_rueegg@ch.ibm.com euibmipa@nl.ibm.com martin.zuber@ch.ibm.com ROB.JUKES@UNITEDKINGDOM.ATTGIS.COM steve.bowden@unitedkingdom.ncr.com kennethh@dk.ibm.com huntj@uk.att.com david.delchar@att.com 
+
+9. 62.186.0.0/16 
+daniel.rueegg@intl.att.com drueegg@emea.att.com euabsipa@emea.att.com euabsnic@emea.att.com abuse@att.net emeadnr@emea.att.com daniel.rueegg@int.att.com dr6348@att.com dani_rueegg@ch.ibm.com euibmipa@nl.ibm.com martin.zuber@ch.ibm.com ROB.JUKES@UNITEDKINGDOM.ATTGIS.COM steve.bowden@unitedkingdom.ncr.com kennethh@dk.ibm.com huntj@uk.att.com david.delchar@att.com 
+
+10. 62.187.0.0/16 
+daniel.rueegg@intl.att.com drueegg@emea.att.com euabsipa@emea.att.com euabsnic@emea.att.com abuse@att.net emeadnr@emea.att.com daniel.rueegg@int.att.com dr6348@att.com dani_rueegg@ch.ibm.com euibmipa@nl.ibm.com martin.zuber@ch.ibm.com ROB.JUKES@UNITEDKINGDOM.ATTGIS.COM steve.bowden@unitedkingdom.ncr.com kennethh@dk.ibm.com huntj@uk.att.com david.delchar@att.com 
+
+11. 77.33.0.0/16 
+ripe@fibia.dk noc@fibia.dk hostmaster@fibia.dk peering@fibia.dk abuse@fibia.dk peering@dbnet.dk noc@dbnet.dk lir@dbnet.dk abuse@dbnet.dk mt@conscia.dk 
+
+12. 81.81.0.0/16 
+staff@iunet.it fpalumbo@iunet.it flavio.palumbo@mail.wind.it abuse@wind.it abuse@h3g.it 
+
+13. 83.210.0.0/16 
+brian.l.skeen@boeing.com samuel.d.knox@boeing.com dl-cbbripepoc@boeing.com 
+
+14. 88.159.0.0/16 
+kpn-ip-office@kpn.com peter.bosman@kpn.com rh@concepts.nl abuse@kpn.com hostmaster@eurorings.net noc@kpn.com peering-office@kpn.com domain@kpn.com Abuse_itns@kpnmail.nl joris.demooij@kpn.com raymond@prolocation.net abuse@planet.nl security@planet.nl as8737-lir@kpn.com netmaster@kpn.com abuse@tiscali.nl networks@tiscali.nl peering@tiscali.nl ripe@edutel.nl lijbrandt@prolocation.net abuse@lijbrandt.net noc@concepts.nl abuse@telfort.nl lir@edutel.nl noc@ispfabriek.nl changdesk-ias@kpn.com 
+
+15. 94.169.0.0/16 
+ripe@libertyglobal.com ripe@lgi.com peering@aorta.net ip-noc@upctechnology.com 
+
+16. 128.124.0.0/16 
+noc@umc.com.ua noc@vodafone.ua abuse@mts.com.ua noc@mts.com.ua jar@umc.com.ua noc@tsua.net 
+
+17. 129.73.0.0/16 
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+
+18. 132.186.0.0/16 
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+
+19. 134.239.0.0/16 
+ripe@awalnet.net.sa networks@stcs.com.sa hostmaster@awalnet.net.sa abuse@stcs.com.sa abdullah@awalnet.net.sa sakhter@awalnet.com iabobakr@awalnet.com 
+
+20. 137.223.0.0/16 
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+
+21. 139.10.0.0/16 
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+
+22. 139.16.0.0/16 
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+
+23. 139.21.0.0/16 
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+
+24. 139.22.0.0/16 
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+
+25. 139.25.0.0/16 
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+
+26. 140.231.0.0/16 
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+
+27. 141.73.0.0/16 
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+
+28. 141.97.0.0/16 
+Tony.Glenholmes@nhs.net Kieran.mcconville@hscni.net tony.glenholmes@nhs.net martin.slater@nhs.net ipamteam@nhs.net darren.marshall@redcentricplc.com abuse@redcenticplc.com 
+
+29. 144.145.0.0/16 
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+
+30. 146.251.0.0/16 
+abuse@mobily.com.sa RIPE-ADMIN@mobily.com.sa RIPE-Admin@mobily.com.sa s.mohamed@mobily.com.sa B-RIPE-TECH@mobily.com.sa M-RIPE-TECH@mobily.com.sa mbnoc@mobily.com.sa a.baghir@mobily.com.sa 
+
+31. 146.254.0.0/16 
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+
+32. 147.54.0.0/16 
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+
+33. 147.82.0.0/16 
+ripe@awalnet.net.sa networks@stcs.com.sa hostmaster@awalnet.net.sa abuse@stcs.com.sa abdullah@awalnet.net.sa sakhter@awalnet.com iabobakr@awalnet.com 
+
+34. 149.246.0.0/16 
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+
+35. 155.231.0.0/16 
+Tony.Glenholmes@nhs.net Kieran.mcconville@hscni.net tony.glenholmes@nhs.net martin.slater@nhs.net ipamteam@nhs.net darren.marshall@redcentricplc.com abuse@redcenticplc.com 
+
+36. 157.163.0.0/16 
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+
+37. 158.92.0.0/16 
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+
+38. 158.226.0.0/16 
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+
+39. 159.160.0.0/16 
+ripe@lifecell.com.ua 
+
+40. 161.218.0.0/16 
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+
+41. 163.242.0.0/16 
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+
+42. 164.34.0.0/16 
+network-admin-sn@t-systems.com dirk.aschhoff@telekom.de dirk.aschhoff@t-systems.com auftrag@nic.telekom.de 
+
+43. 164.35.0.0/16 
+tech@kbc.be frank.terlinck@kbc.be jeroen.pulinckx@verz.kbc.be ripeadmin@kbc.be cedc-ripe-admin@kh.hu telco.extranet@kbc.be ivan.maes@kbc.be daan.olbrechts@kbc.be 
+
+44. 165.218.0.0/16 
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+
+45. 167.87.0.0/16 
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+
+46. 167.233.0.0/16 
+ripe-mntner@hetzner.de info@hetzner.de ripe@hetzner.de abuse@hetzner.de peering@hetzner.de martin.fritzsche@hetzner.de stephan.konvickova@hetzner.de sebastian.krannich@hetzner.de tobias.frenz@hetzner.de 
+
+Сеть 47. 176.29.0.0/16 
+является подсетью более крупной сети
+
+Сеть 48. 176.89.0.0/16 
+является подсетью более крупной сети
+
+49. 180.234.0.0/16 
+araiyes@stc.com.sa registry@stc.com.sa info@irnetco.net suliman.alzain@saudi.net.sa registry@saudi.net.sa abuse@saudi.net.sa dosary@saudi.net.sa 
+
+50. 193.139.0.0/16 
+earnoux@lfdj.com pnoe@skyweb.be 
+
+51. 193.237.0.0/16 
+ipabuse@vodafone.co.uk ipadmin@vodafone.com as-guardian@demon.net hostmaster@demon.net 
+
+52. 194.155.0.0/16 
+Tony.Glenholmes@nhs.net Kieran.mcconville@hscni.net tony.glenholmes@nhs.net martin.slater@nhs.net ipamteam@nhs.net darren.marshall@redcentricplc.com abuse@redcenticplc.com 
+
+53. 194.253.0.0/16 
+daniel.rueegg@intl.att.com drueegg@emea.att.com euabsipa@emea.att.com euabsnic@emea.att.com abuse@att.net emeadnr@emea.att.com daniel.rueegg@int.att.com dr6348@att.com dani_rueegg@ch.ibm.com euibmipa@nl.ibm.com martin.zuber@ch.ibm.com ROB.JUKES@UNITEDKINGDOM.ATTGIS.COM steve.bowden@unitedkingdom.ncr.com kennethh@dk.ibm.com huntj@uk.att.com david.delchar@att.com 
+
+54. 195.51.0.0/16 
+daniel.rueegg@intl.att.com drueegg@emea.att.com euabsipa@emea.att.com euabsnic@emea.att.com abuse@att.net emeadnr@emea.att.com daniel.rueegg@int.att.com dr6348@att.com dani_rueegg@ch.ibm.com euibmipa@nl.ibm.com martin.zuber@ch.ibm.com ROB.JUKES@UNITEDKINGDOM.ATTGIS.COM steve.bowden@unitedkingdom.ncr.com kennethh@dk.ibm.com huntj@uk.att.com david.delchar@att.com 
+
+55. 195.79.0.0/16 
+daniel.rueegg@intl.att.com drueegg@emea.att.com euabsipa@emea.att.com euabsnic@emea.att.com abuse@att.net emeadnr@emea.att.com daniel.rueegg@int.att.com dr6348@att.com dani_rueegg@ch.ibm.com euibmipa@nl.ibm.com martin.zuber@ch.ibm.com ROB.JUKES@UNITEDKINGDOM.ATTGIS.COM steve.bowden@unitedkingdom.ncr.com kennethh@dk.ibm.com huntj@uk.att.com david.delchar@att.com 
+
+56. 195.104.0.0/16 
+Tony.Glenholmes@nhs.net Kieran.mcconville@hscni.net tony.glenholmes@nhs.net martin.slater@nhs.net ipamteam@nhs.net darren.marshall@redcentricplc.com abuse@redcenticplc.com 
+
+57. 195.105.0.0/16 
+Tony.Glenholmes@nhs.net Kieran.mcconville@hscni.net tony.glenholmes@nhs.net martin.slater@nhs.net ipamteam@nhs.net darren.marshall@redcentricplc.com abuse@redcenticplc.com 
+
+58. 195.106.0.0/16 
+Tony.Glenholmes@nhs.net Kieran.mcconville@hscni.net tony.glenholmes@nhs.net martin.slater@nhs.net ipamteam@nhs.net darren.marshall@redcentricplc.com abuse@redcenticplc.com 
+
+59. 195.107.0.0/16 
+Tony.Glenholmes@nhs.net Kieran.mcconville@hscni.net tony.glenholmes@nhs.net martin.slater@nhs.net ipamteam@nhs.net darren.marshall@redcentricplc.com abuse@redcenticplc.com 
+
+60. 195.118.0.0/16 
+daniel.rueegg@intl.att.com drueegg@emea.att.com euabsipa@emea.att.com euabsnic@emea.att.com abuse@att.net emeadnr@emea.att.com daniel.rueegg@int.att.com dr6348@att.com dani_rueegg@ch.ibm.com euibmipa@nl.ibm.com martin.zuber@ch.ibm.com ROB.JUKES@UNITEDKINGDOM.ATTGIS.COM steve.bowden@unitedkingdom.ncr.com kennethh@dk.ibm.com huntj@uk.att.com david.delchar@att.com 
+
+61. 212.148.0.0/16 
+Tony.Glenholmes@nhs.net Kieran.mcconville@hscni.net tony.glenholmes@nhs.net martin.slater@nhs.net ipamteam@nhs.net darren.marshall@redcentricplc.com abuse@redcenticplc.com 
+
+62. 212.196.0.0/16 
+Tony.Glenholmes@nhs.net Kieran.mcconville@hscni.net tony.glenholmes@nhs.net martin.slater@nhs.net ipamteam@nhs.net darren.marshall@redcentricplc.com abuse@redcenticplc.com 
+
+63. 213.12.0.0/16 
+ipadmin@vodafone.com ncipsupport@vodafone.com ipabuse@vodafone.co.uk ipadmin@eu.cw.net ripe-adm@energis.com abuse@vodafone.com peter.byrne@cwcom.co.uk ipadmin@de.cw.com peeringsupport@vodafone.com transportukipcore@vodafone.com peeringrequest@vodafone.com peering-support@cw.net peering-request@cw.net ipv6@cw.net ipmulticast@cw.net ipadmin@cw.net 
+
+64. 51.19.0.0/16 
+abuse@sky.uk hostmaster@sky.uk nikolaos.bezirgiannidis@sky.uk ripe-update@sky.uk ripe@bskyb.com abuse@bskyb.com Freida.Tallon@bskyb.com ripe-notify@uk.psi.com abuse@sky.com peering@sky.uk ripe@josebus.org mark.ivens@sky.uk 
+
+65. 51.76.0.0/16 
+peter.wightman@dwp.gsi.gov.uk 
+
+66. 51.78.0.0/16 
+peter.wightman@dwp.gsi.gov.uk 
+
+67. 51.80.0.0/16 
+peter.wightman@dwp.gsi.gov.uk 
+
+68. 51.81.0.0/16 
+noc@ovh.net lir@ovh.net abuse@ovh.net 
+
+69. 51.82.0.0/16 
+peter.wightman@dwp.gsi.gov.uk 
+
+70. 51.90.0.0/16 
+peter.wightman@dwp.gsi.gov.uk 
+
+71. 51.91.0.0/16 
+noc@ovh.net lir@ovh.net abuse@ovh.net 
+
+72. 51.106.0.0/16 
+peter.wightman@dwp.gsi.gov.uk 
+
+73. 51.139.0.0/16 
+peter.wightman@dwp.gsi.gov.uk 
+
+74. 51.146.0.0/16 
+abuse@sky.uk hostmaster@sky.uk nikolaos.bezirgiannidis@sky.uk ripe-update@sky.uk ripe@bskyb.com abuse@bskyb.com Freida.Tallon@bskyb.com ripe-notify@uk.psi.com abuse@sky.com peering@sky.uk ripe@josebus.org mark.ivens@sky.uk 
+
+75. 51.147.0.0/16 
+peter.wightman@dwp.gsi.gov.uk 
+
+76. 51.160.0.0/16 
+peter.wightman@dwp.gsi.gov.uk 
+
+77. 51.161.0.0/16 
+noc@ovh.net lir@ovh.net abuse@ovh.net 
+
+78. 51.170.0.0/16 
+ripe@zen.co.uk transit@zen.net.uk peering@zen.net.uk abuse@zen.co.uk brandon.daly@zeninternet.co.uk 
+
+79. 51.178.0.0/16 
+noc@ovh.net lir@ovh.net abuse@ovh.net 
+
+80. 51.194.0.0/16 
+abuse@sky.uk hostmaster@sky.uk nikolaos.bezirgiannidis@sky.uk ripe-update@sky.uk ripe@bskyb.com abuse@bskyb.com Freida.Tallon@bskyb.com ripe-notify@uk.psi.com abuse@sky.com peering@sky.uk ripe@josebus.org mark.ivens@sky.uk 
+
+81. 51.195.0.0/16 
+noc@ovh.net lir@ovh.net abuse@ovh.net 
+
+Сеть 82. 51.200.0.0/16 
+является подсетью более крупной сети
+
+83. 51.210.0.0/16 
+noc@ovh.net lir@ovh.net abuse@ovh.net 
+
+84. 51.222.0.0/16 
+noc@ovh.net lir@ovh.net abuse@ovh.net 
+
+85. 51.241.0.0/16 
+abuse@sky.uk hostmaster@sky.uk nikolaos.bezirgiannidis@sky.uk ripe-update@sky.uk ripe@bskyb.com abuse@bskyb.com Freida.Tallon@bskyb.com ripe-notify@uk.psi.com abuse@sky.com peering@sky.uk ripe@josebus.org mark.ivens@sky.uk 
+
+86. 51.250.0.0/16 
+ripe@zen.co.uk transit@zen.net.uk peering@zen.net.uk abuse@zen.co.uk brandon.daly@zeninternet.co.uk 
+
+87. 51.251.0.0/16 
+peter.wightman@dwp.gsi.gov.uk 
+
+88. 130.24.0.0/16 
+glo-ns-eng@unilever.com GLO-NS-ENG@unilever.com IP.Abuse@Unilever.Com Matt.Foster@unilever.com 
+
+89. 130.98.0.0/16 
+lir@edf.fr ripe@edf.fr 
+
+90. 130.142.0.0/16 
+ip-abused@philips.com ddi-authority@signify.com ip-authority@philips.com 
+
+91. 130.143.0.0/16 
+ip-abused@philips.com ip-authority@philips.com ddi-authority@philips.com thomas.bodentien@philips.com ton.hekstra@philips.com jan.elders@philips.com Hans.Nunnink@philips.com 
+
+92. 130.144.0.0/16 
+ip-abused@philips.com ip-authority@philips.com ddi-authority@philips.com thomas.bodentien@philips.com ton.hekstra@philips.com jan.elders@philips.com Hans.Nunnink@philips.com 
+
+93. 130.145.0.0/16 
+ip-abused@philips.com ip-authority@philips.com ddi-authority@philips.com thomas.bodentien@philips.com ton.hekstra@philips.com jan.elders@philips.com Hans.Nunnink@philips.com 
+
+94. 130.146.0.0/16 
+ip-abused@philips.com ddi-authority@signify.com ip-authority@philips.com 
+
+95. 130.147.0.0/16 
+ip-abused@philips.com ip-authority@philips.com ddi-authority@philips.com thomas.bodentien@philips.com ton.hekstra@philips.com jan.elders@philips.com Hans.Nunnink@philips.com 
+
+Сеть 96. 130.148.0.0/16 
+является подсетью более крупной сети
+
+97. 131.97.0.0/16 
+abuse@swip.net volvonic@volvo.com mats.odbratt@supplier.volvo.com 
+
+98. 131.205.0.0/16 
+0417@resilans.se hostmaster@sll.se abuse@sll.se peering@sll.se abuse@sll.se. 
+
+99. 134.27.0.0/16 
+central.ipns.admin@nxp.com patrick.van.duijl@nxp.com rudi@unsec.nl stefan.van.der.eijk@nxp.com 
+
+Сеть 100. 134.81.0.0/16 
+является подсетью более крупной сети
+
+101. 134.92.0.0/16 
+wharms@bfs.de abuse@bfs.de 
+
+Сеть 102. 134.142.0.0/16 
+является подсетью более крупной сети
+
+Сеть 103. 134.143.0.0/16 
+является подсетью более крупной сети
+
+Сеть 104. 134.145.0.0/16 
+является подсетью более крупной сети
+
+Сеть 105. 134.183.0.0/16 
+является подсетью более крупной сети
+
+106. 134.203.0.0/16 
+lir@surfnet.nl Niek.vanBreederode@tno.nl lir@SURFnet.nl 
+
+Сеть 107. 136.170.0.0/16 
+является подсетью более крупной сети
+
+Сеть 108. 136.230.0.0/16 
+является подсетью более крупной сети
+
+109. 137.33.0.0/16 
+abuse.contact@kemira.com kits.infra@kemira.com 
+
+110. 137.34.0.0/16 
+admin.cana@credit-suisse.com list.canatech@credit-suisse.com 
+
+111. 137.55.0.0/16 
+ip-abused@philips.com ddi-authority@signify.com ip-authority@philips.com 
+
+112. 137.60.0.0/16 
+erwin.brandt@skatteverket.se nic@rsv.se abuse@skatteverket.se 
+
+Сеть 113. 137.62.0.0/16 
+является подсетью более крупной сети
+
+Сеть 114. 137.105.0.0/16 
+является подсетью более крупной сети
+
+115. 137.156.0.0/16 
+hostmaster@ubs.com craig.faasen@ubs.com christina-jane.lear@ubs.com johnny.walker@ubs.com abuse@ubs.com 
+
+Сеть 116. 137.218.0.0/16 
+является подсетью более крупной сети
+
+117. 138.3.0.0/16 
+domain-contact_ww_grp@oracle.com domains@maxymiser.com ip-admin@dyn.com liam.hynes@oracle.com hostmaster@oracle.com helpdesk@venda.com ripe-hostmaster@venda.com network-contact_ww@oracle.com 
+
+Сеть 118. 138.249.0.0/16 
+является подсетью более крупной сети
+
+119. 139.3.0.0/16 
+h-net.security@henkel.com gabriel.klein@henkel.com viktor.trusch@henkel.com Bernd.Euler@net.henkel.de manfred.reinartz@henkel.com erey@ernw.de 
+
+120. 139.50.0.0/16 
+mdacri@munichre.com p0040007605@munichre.com 
+
+Сеть 121. 139.54.0.0/16 
+является подсетью более крупной сети
+
+Сеть 122. 139.89.0.0/16 
+является подсетью более крупной сети
+
+Сеть 123. 139.90.0.0/16 
+является подсетью более крупной сети
+
+124. 139.156.0.0/16 
+KPN-IP-Office@kpn.com abuse@kpn.com hostmaster@eurorings.net kpn-ip-office@kpn.com noc@kpn.com peering-office@kpn.com domain@kpn.com peter.bosman@kpn.com bastiaan.schenk@kpn.com noc-kpncm.datacenters@kpn.com abuse@planet.nl security@planet.nl. lir@planet.nl netmaster@kpn.com ripe@eurodings.de thomas.jessen@de.kpn netmaster@de.kpn ip-office@kpn.com helpdesk@ezorg.nl ip.admin@getronics.com registry@infonet.nl ipregistry@kpn.net aantiquera@ibasis.net renebi@kpn.net zeljko.rumora@kpn.com testmaster@ip.kpn.net netmaster@kpn.net ip-reg@kpn.net noc@de.kpn 
+
+Сеть 125. 139.158.0.0/16 
+является подсетью более крупной сети
+
+Сеть 126. 141.231.0.0/16 
+является подсетью более крупной сети
+
+Сеть 127. 141.245.0.0/16 
+является подсетью более крупной сети
+
+Сеть 128. 141.253.0.0/16 
+является подсетью более крупной сети
+
+129. 143.99.0.0/16 
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+
+130. 144.54.0.0/16 
+ip-abused@philips.com ip-authority@philips.com ddi-authority@philips.com thomas.bodentien@philips.com ton.hekstra@philips.com jan.elders@philips.com Hans.Nunnink@philips.com 
+
+Сеть 131. 144.56.0.0/16 
+является подсетью более крупной сети
+
+132. 144.119.0.0/16 
+global.ipcoordinator@dsm.com 
+
+133. 144.165.0.0/16 
+lir@edf.fr ripe@edf.fr 
+
+134. 145.6.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+135. 145.17.0.0/16 
+glo-ns-eng@unilever.com GLO-NS-ENG@unilever.com IP.Abuse@Unilever.Com Matt.Foster@unilever.com 
+
+136. 145.54.0.0/16 
+KPN-IP-Office@kpn.com abuse@kpn.com hostmaster@eurorings.net kpn-ip-office@kpn.com noc@kpn.com peering-office@kpn.com domain@kpn.com peter.bosman@kpn.com bastiaan.schenk@kpn.com noc-kpncm.datacenters@kpn.com abuse@planet.nl security@planet.nl. lir@planet.nl netmaster@kpn.com ripe@eurodings.de thomas.jessen@de.kpn netmaster@de.kpn ip-office@kpn.com helpdesk@ezorg.nl ip.admin@getronics.com registry@infonet.nl ipregistry@kpn.net aantiquera@ibasis.net renebi@kpn.net zeljko.rumora@kpn.com testmaster@ip.kpn.net netmaster@kpn.net ip-reg@kpn.net noc@de.kpn 
+
+137. 145.55.0.0/16 
+glo-ns-eng@unilever.com GLO-NS-ENG@unilever.com IP.Abuse@Unilever.Com Matt.Foster@unilever.com 
+
+138. 145.66.0.0/16 
+ict-support@avebe.com erik.dijck@avebe.com 
+
+139. 145.82.0.0/16 
+neil.stamp@croda.com eop.admin@croda.com 
+
+140. 145.134.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+141. 145.135.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+142. 145.160.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+143. 145.161.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+144. 145.162.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+145. 145.163.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+146. 145.164.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+147. 145.165.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+148. 145.166.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+149. 145.167.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+150. 145.168.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+151. 145.169.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+152. 145.170.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+153. 145.171.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+154. 145.172.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+155. 145.173.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+156. 145.174.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+157. 145.175.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+158. 145.176.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+159. 145.177.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+160. 145.178.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+161. 145.179.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+162. 145.180.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+163. 145.181.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+164. 145.182.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+165. 145.183.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+166. 145.184.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+167. 145.185.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+168. 145.186.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+169. 145.187.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+170. 145.188.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+171. 145.189.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+172. 145.190.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+173. 145.191.0.0/16 
+cert@surfnet.nl lir@surfnet.nl noc@surfnet.nl info@SURFnet.nl info@surfnet.nl netmaster@surfnet.nl Wim.Biemolt@surfnet.nl ipv6@surfnet.nl abuse@as1101.net info@notSURF.net abuse@notSURF.net noc@notSURF.net abuse@as1102.net abuse@surfnet.nl erik-jan.bos@surfnet.nl as-guardian@surfnet.nl bos@surfnet.nl Niels.denOtter@surfnet.nl Ronald.vanderPol@rvdp.org hostmaster@tudelft.nl abuse@tudelft.nl infog@meteogroup.com lir@SURFnet.nl Rogier.Spoor@SURFnet.nl abuse@utwente.nl security@utwente.nl ripe@utwente.nl J.J.B.Kwaaitaal@tue.nl Jaap.Schipper@springer.com servicedesk@vancis.nl ripecontact@vancis.nl abuse@vancis.nl hostmaster@os3.nl abuse@os3.nl karst@os3.nl K.Koymans@uva.nl radboud.atema@kcl.znb.nl stuurwold@astron.nl alexander.vandenhil@surfnet.nl J.F.A.Schillemans@tue.nl A.L.M.G.v.Lankveld@tue.nl noc@surfsara.nl abuse@surfsara.nl netmaster-ip@surfnet.nl Jac.Kloots@surfnet.nl Marijke.Kaat@surfnet.nl 
+
+Сеть 174. 145.227.0.0/16 
+является подсетью более крупной сети
+
+Сеть 175. 145.231.0.0/16 
+является подсетью более крупной сети
+
+Сеть 176. 146.3.0.0/16 
+является подсетью более крупной сети
+
+Сеть 177. 146.19.0.0/16 
+является подсетью более крупной сети
+
+Сеть 178. 146.59.0.0/16 
+является подсетью более крупной сети
+
+Сеть 179. 146.70.0.0/16 
+является подсетью более крупной сети
+
+Сеть 180. 146.77.0.0/16 
+является подсетью более крупной сети
+
+Сеть 181. 146.100.0.0/16 
+является подсетью более крупной сети
+
+182. 146.104.0.0/16 
+kpn-ip-Office@kpn.com kpn-ip-office@kpn.com etienne.lecomte@croon.nl jhon.megens@croon.nl 
+
+183. 146.106.0.0/16 
+ddi@asml.com investor.relations@asml.com henk.janssen@asml.com 
+
+184. 146.173.0.0/16 
+1005@resilans.se anders.eklind@ncc.se patrik.a.karlsson@ncc.se 
+
+Сеть 185. 146.248.0.0/16 
+является подсетью более крупной сети
+
+Сеть 186. 147.7.0.0/16 
+является подсетью более крупной сети
+
+Сеть 187. 147.68.0.0/16 
+является подсетью более крупной сети
+
+188. 147.77.0.0/16 
+ripeadmin@royalmail.com 
+
+189. 147.112.0.0/16 
+ripe@ringstad.no erlend@ringstad.no 
+
+190. 147.119.0.0/16 
+ripeadmin@royalmail.com 
+
+191. 147.167.0.0/16 
+novartis.nic@novartis.com 
+
+Сеть 192. 147.184.0.0/16 
+является подсетью более крупной сети
+
+Сеть 193. 147.193.0.0/16 
+является подсетью более крупной сети
+
+Сеть 194. 147.196.0.0/16 
+является подсетью более крупной сети
+
+Сеть 195. 147.201.0.0/16 
+является подсетью более крупной сети
+
+Сеть 196. 148.54.0.0/16 
+является подсетью более крупной сети
+
+197. 148.110.0.0/16 
+lir@ctie.etat.lu marcel.cox@ctie.etat.lu pol.bettinger@ctie.etat.lu yves.schaaf@ctie.etat.lu 
+
+198. 148.138.0.0/16 
+volvonic@volvo.com mats.odbratt@supplier.volvo.com 
+
+Сеть 199. 148.140.0.0/16 
+является подсетью более крупной сети
+
+Сеть 200. 148.148.0.0/16 
+является подсетью более крупной сети
+
+Сеть 201. 148.151.0.0/16 
+является подсетью более крупной сети
+
+Сеть 202. 148.176.0.0/16 
+является подсетью более крупной сети
+
+Сеть 203. 148.181.0.0/16 
+является подсетью более крупной сети
+
+204. 148.185.0.0/16 
+ipadmin@vodafone.com ipabuse@vodafone.co.uk ipadmin@cw.com ncipsupport@vodafone.com ipadmin@cw.net tcremer@cw.net tcremer@de.cw.net 
+
+205. 149.59.0.0/16 
+ip-abused@philips.com ip-authority@philips.com ddi-authority@philips.com thomas.bodentien@philips.com ton.hekstra@philips.com jan.elders@philips.com Hans.Nunnink@philips.com 
+
+206. 149.196.0.0/16 
+shaun.baker@bp.com hostmaster@bp.com 0603458_sys@xukcl3.dnet.bp.com 
+
+Сеть 207. 149.207.0.0/16 
+является подсетью более крупной сети
+
+208. 149.208.0.0/16 
+awetzler@phoenixcontact.com GNiemeier@phoenixcontact.com auftrag@nic.telekom.de 
+
+209. 149.213.0.0/16 
+domainmaster@htp.net ripe@talanx.com abuse@talanx.com 
+
+Сеть 210. 149.245.0.0/16 
+является подсетью более крупной сети
+
+211. 149.251.0.0/16 
+lir@edf.fr ripe@edf.fr 
+
+212. 150.112.0.0/16 
+droisman@us.ibm.com ipadmin@softlayer.com 
+
+213. 150.175.0.0/16 
+julien.cresme@adp.com esiasn@adp.com jean-edouard.babin@adp.com Jean-Edouard.Babin@adp.com unix.adm@europe.adp.com 
+
+Сеть 214. 150.205.0.0/16 
+является подсетью более крупной сети
+
+Сеть 215. 150.213.0.0/16 
+является подсетью более крупной сети
+
+Сеть 216. 151.85.0.0/16 
+является подсетью более крупной сети
+
+217. 151.87.0.0/16 
+tiziana.bordin@fcagroup.com oscar.farinelli@fcagroup.com davide.fella@fcagroup.com 
+
+Сеть 218. 151.98.0.0/16 
+является подсетью более крупной сети
+
+219. 151.120.0.0/16 
+global.hostmaster@roche.com security@roche.com erika.ocana_umbral@roche.com 
+
+220. 151.129.0.0/16 
+webmaster@kent.pnn.police.uk 100445.1674@compuserve.com 
+
+221. 151.176.0.0/16 
+tinam@amazon.com ripe-interest@amazon.com ipmanagement@amazon.com 
+
+Сеть 222. 151.180.0.0/16 
+является подсетью более крупной сети
+
+223. 151.184.0.0/16 
+KPN-IP-Office@kpn.com abuse@kpn.com hostmaster@eurorings.net kpn-ip-office@kpn.com noc@kpn.com peering-office@kpn.com domain@kpn.com peter.bosman@kpn.com bastiaan.schenk@kpn.com noc-kpncm.datacenters@kpn.com abuse@planet.nl security@planet.nl. lir@planet.nl netmaster@kpn.com ripe@eurodings.de thomas.jessen@de.kpn netmaster@de.kpn ip-office@kpn.com helpdesk@ezorg.nl ip.admin@getronics.com registry@infonet.nl ipregistry@kpn.net aantiquera@ibasis.net renebi@kpn.net zeljko.rumora@kpn.com testmaster@ip.kpn.net netmaster@kpn.net ip-reg@kpn.net noc@de.kpn 
+
+Сеть 224. 151.211.0.0/16 
+является подсетью более крупной сети
+
+Сеть 225. 151.212.0.0/16 
+является подсетью более крупной сети
+
+226. 152.95.0.0/16 
+ripe-notify@csc.dk hostmaster@csc.dk merikss2@csc.com tcpipadm@csc.dk smr@csc.dk pec@csc-cm.dk 
+
+Сеть 227. 152.134.0.0/16 
+является подсетью более крупной сети
+
+Сеть 228. 152.150.0.0/16 
+является подсетью более крупной сети
+
+Сеть 229. 153.15.0.0/16 
+является подсетью более крупной сети
+
+230. 153.17.0.0/16 
+auftrag@nic.telekom.de Klaus-Dieter.Schoeck@telekom.de SKurz@Telekom.de Thomas.Schnorr@telekom.de W.Kurz@telekom.de lir.nic@t-com.net Norbert.Brune@telekom.de karl-heinz.friedel@t-systems.com laboratories.info@telekom.de network-admin-sn@t-systems.com dirk.aschhoff@t-systems.com dirk.aschhoff@telekom.de eller@dtrd.de Sarah-Allison.Schmitt@telekom.de Sarah-Allison.Schmitt@external.telekom.com daniel.kaufmann@telekom.de bp@NIC.DTAG.DE db@nic.dtag.de rv@NIC.DTAG.DE rr-notify@NIC.DTAG.DE Joerg.Garms@t-systems.com kai.gieselmann@t-systems.com rainer.schatzmayr@telekom.de peering@telekom.de hostmaster@FTA-Berlin.de hostmaster@fta-berlin.de suhrke@FTA-Berlin.de 
+
+231. 153.93.0.0/16 
+uwe.ziesche@baw.de bulk@karlsruhe.baw.de 
+
+Сеть 232. 155.66.0.0/16 
+является подсетью более крупной сети
+
+Сеть 233. 155.132.0.0/16 
+является подсетью более крупной сети
+
+Сеть 234. 155.204.0.0/16 
+является подсетью более крупной сети
+
+Сеть 235. 155.249.0.0/16 
+является подсетью более крупной сети
+
+Сеть 236. 156.118.0.0/16 
+является подсетью более крупной сети
+
+237. 157.125.0.0/16 
+richard.underwood@digitaslbi.com client.support@digitaslbi.com info@lbicon.co.uk 
+
+Сеть 238. 157.162.0.0/16 
+является подсетью более крупной сети
+
+239. 157.168.0.0/16 
+alain.kientz@panalpina.com cni-network-changes.pac@panalpina.com 
+
+Сеть 240. 157.171.0.0/16 
+является подсетью более крупной сети
+
+Сеть 241. 157.172.0.0/16 
+является подсетью более крупной сети
+
+242. 157.177.0.0/16 
+office@itsv.at guenter.korn@itsv.at intranet.admin@sozvers.at 
+
+Сеть 243. 157.186.0.0/16 
+является подсетью более крупной сети
+
+Сеть 244. 157.236.0.0/16 
+является подсетью более крупной сети
+
+Сеть 245. 158.60.0.0/16 
+является подсетью более крупной сети
+
+246. 158.119.0.0/16 
+pjfox@phls.nhs.uk ravi.kanagasabapathy@hpa.org.uk phil.fox@hpa.org.uk 
+
+Сеть 247. 158.124.0.0/16 
+является подсетью более крупной сети
+
+Сеть 248. 158.131.0.0/16 
+является подсетью более крупной сети
+
+Сеть 249. 158.133.0.0/16 
+является подсетью более крупной сети
+
+250. 158.216.0.0/16 
+admin.cana@credit-suisse.com list.canatech@credit-suisse.com 
+
+Сеть 251. 158.218.0.0/16 
+является подсетью более крупной сети
+
+Сеть 252. 158.231.0.0/16 
+является подсетью более крупной сети
+
+Сеть 253. 158.249.0.0/16 
+является подсетью более крупной сети
+
+Сеть 254. 159.7.0.0/16 
+является подсетью более крупной сети
+
+Сеть 255. 159.30.0.0/16 
+является подсетью более крупной сети
+
+256. 159.34.0.0/16 
+tmnreception@lloydsbanking.com Peter.Byrne@Lloydstsb.co.uk peter.byrne@lloydsbanking.com hostmaster@lloydstsb.co.uk stephane.ronque@lloydsbank.ch Robin.Chatfield@lloydstsb.co.uk Sajid.Patel@lloydstsb.co.uk 
+
+257. 159.109.0.0/16 
+info@sita.aero noc@sita.aero abuse@sita.aero 
+
+Сеть 258. 159.114.0.0/16 
+является подсетью более крупной сети
+
+259. 159.151.0.0/16 
+noc@saint-gobain.com abuse@saint-gobain.com 
+
+Сеть 260. 159.152.0.0/16 
+является подсетью более крупной сети
+
+261. 159.156.0.0/16 
+admin.cana@credit-suisse.com list.canatech@credit-suisse.com 
+
+Сеть 262. 159.167.0.0/16 
+является подсетью более крупной сети
+
+Сеть 263. 159.170.0.0/16 
+является подсетью более крупной сети
+
+264. 159.173.0.0/16 
+abuse@total.com contact.adm@total.com neil.beesley@endava.com peter@elmail.co.uk notify@uk.xo.com cedric.denece@totalfinaelf.com francis.bell@netconnect.co.uk 
+
+Сеть 265. 159.200.0.0/16 
+является подсетью более крупной сети
+
+Сеть 266. 159.210.0.0/16 
+является подсетью более крупной сети
+
+Сеть 267. 159.236.0.0/16 
+является подсетью более крупной сети
+
+Сеть 268. 159.239.0.0/16 
+является подсетью более крупной сети
+
+Сеть 269. 159.244.0.0/16 
+является подсетью более крупной сети
+
+Сеть 270. 159.254.0.0/16 
+является подсетью более крупной сети
+
+271. 160.8.0.0/16 
+twicinski@salesforce.com netops@salesforce.com neteng@salesforce.com 
+
+Сеть 272. 160.38.0.0/16 
+является подсетью более крупной сети
+
+Сеть 273. 160.47.0.0/16 
+является подсетью более крупной сети
+
+Сеть 274. 160.49.0.0/16 
+является подсетью более крупной сети
+
+Сеть 275. 160.50.0.0/16 
+является подсетью более крупной сети
+
+Сеть 276. 160.51.0.0/16 
+является подсетью более крупной сети
+
+Сеть 277. 160.52.0.0/16 
+является подсетью более крупной сети
+
+278. 160.59.0.0/16 
+hostmaster@ubs.com craig.faasen@ubs.com christina-jane.lear@ubs.com johnny.walker@ubs.com abuse@ubs.com 
+
+Сеть 279. 160.63.0.0/16 
+является подсетью более крупной сети
+
+Сеть 280. 160.66.0.0/16 
+является подсетью более крупной сети
+
+Сеть 281. 160.70.0.0/16 
+является подсетью более крупной сети
+
+Сеть 282. 160.100.0.0/16 
+является подсетью более крупной сети
+
+Сеть 283. 160.104.0.0/16 
+является подсетью более крупной сети
+
+Сеть 284. 160.180.0.0/16 
+является подсетью более крупной сети
+
+285. 160.213.0.0/16 
+GLOBEISITITScesNetworkScesWANSME@nestle.com daniel.casutt@nestle.com gilles.krieger@nestle.com ripe-notify@uninett.no morten.peersen@no.nestle.com odd.odnes@no.nestle.com pascal.dominique@fr.nestle.com lionel.bouvier@fr.nestle.com pascal.dominique@waters.nestle.com addr-reg@rain.fr yves.berthou@fr.nestle.com registry@infonet.nl Cyrille.Maire@nestle.com 
+
+Сеть 286. 160.221.0.0/16 
+является подсетью более крупной сети
+
+287. 161.20.0.0/16 
+hostmaster@ubs.com craig.faasen@ubs.com christina-jane.lear@ubs.com johnny.walker@ubs.com abuse@ubs.com 
+
+Сеть 288. 161.48.0.0/16 
+является подсетью более крупной сети
+
+Сеть 289. 161.59.0.0/16 
+является подсетью более крупной сети
+
+290. 161.91.0.0/16 
+ip-abused@philips.com ddi-authority@signify.com ip-authority@philips.com 
+
+291. 161.92.0.0/16 
+ip-abused@philips.com ip-authority@philips.com ddi-authority@philips.com thomas.bodentien@philips.com ton.hekstra@philips.com jan.elders@philips.com Hans.Nunnink@philips.com 
+
+Сеть 292. 161.147.0.0/16 
+является подсетью более крупной сети
+
+Сеть 293. 161.158.0.0/16 
+является подсетью более крупной сети
+
+294. 162.26.0.0/16 
+admin.cana@credit-suisse.com list.canatech@credit-suisse.com 
+
+295. 162.86.0.0/16 
+novartis.nic@novartis.com 
+
+Сеть 296. 163.159.0.0/16 
+является подсетью более крупной сети
+
+Сеть 297. 163.163.0.0/16 
+является подсетью более крупной сети
+
+298. 163.168.0.0/16 
+abuse@bluewin.ch engineering@ip-plus.net ip.management@swisscom.com hostmaster@entris-banking.ch engineering-dns.connectivity-its@swisscom.com abuse@ip-plus.net admin.dns@swisscom.com chapuis@ip-plus.net martin.wittmann@swisscom.com noc@swissdigicert.ch oppermann@networx.ch engineering@ipplus.net ipmgmt.res@swisscom.com mkuhn@dosim.ch noc@ip-plus.net IP-Plus.Peering@swisscom.com denis@ripe.net fankhauser@ip-plus.net angel@ip-plus.net ritter@ip-plus.net boogman@ip-plus.net admin@boogman.ch moroni@ip-plus.net dodeller@ip-plus.net 
+
+299. 163.169.0.0/16 
+ripeadmin@royalmail.com 
+
+300. 163.175.0.0/16 
+global.ipcoordinator@dsm.com 
+
+Сеть 301. 164.6.0.0/16 
+является подсетью более крупной сети
+
+302. 164.7.0.0/16 
+earnoux@lfdj.com pnoe@skyweb.be 
+
+303. 164.12.0.0/16 
+joshua.provost@aexp.com ip@se.verizonbusiness.com graham.salter@hp.com 
+
+Сеть 304. 164.13.0.0/16 
+является подсетью более крупной сети
+
+305. 164.135.0.0/16 
+0607@resilans.se kapacitet-komm@arbetsformedlingen.se magnus.larsson@arbetsformedlingen.se mntripe@telia.net niklas.klasen@arbetsformedlingen.se 
+
+Сеть 306. 164.136.0.0/16 
+является подсетью более крупной сети
+
+Сеть 307. 164.137.0.0/16 
+является подсетью более крупной сети
+
+308. 164.142.0.0/16 
+massimiliano.dangelo@inps.it petrus.jakobs@leonardocompany.com salvatore.longobardo@leonardocompany.com 
+
+309. 165.114.0.0/16 
+central.ipns.admin@nxp.com patrick.van.duijl@nxp.com rudi@unsec.nl stefan.van.der.eijk@nxp.com 
+
+310. 166.8.0.0/16 
+droisman@us.ibm.com ipadmin@softlayer.com 
+
+311. 166.11.0.0/16 
+droisman@us.ibm.com ipadmin@softlayer.com 
+
+312. 167.81.0.0/16 
+ip-abused@philips.com ip-authority@philips.com ddi-authority@philips.com thomas.bodentien@philips.com ton.hekstra@philips.com jan.elders@philips.com Hans.Nunnink@philips.com 
+
+Сеть 313. 167.111.0.0/16 
+является подсетью более крупной сети
+
+314. 167.168.0.0/16 
+admin.cana@credit-suisse.com list.canatech@credit-suisse.com 
+
+315. 168.139.0.0/16 
+ccnet@metu.edu.tr hostmaster@metu.edu.tr csirt@metu.edu.tr abuse@metu.edu.tr 
+
+316. 169.39.0.0/16 
+
+
+Сеть 317. 169.40.0.0/16 
+является подсетью более крупной сети
+
+Сеть 318. 169.49.0.0/16 
+является подсетью более крупной сети
+
+Сеть 319. 169.52.0.0/16 
+является подсетью более крупной сети
+
+Сеть 320. 170.60.0.0/16 
+является подсетью более крупной сети
+
+Сеть 321. 171.26.0.0/16 
+является подсетью более крупной сети
+
+Сеть 322. 171.32.0.0/16 
+является подсетью более крупной сети
+
+Сеть 323. 192.37.0.0/16 
+является подсетью более крупной сети
+

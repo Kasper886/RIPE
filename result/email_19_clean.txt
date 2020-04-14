@@ -1,0 +1,239 @@
+0. 5.157.96.0/19
+abuse@ngi.it lir@ngi.it network@ngi.it 
+
+1. 5.198.192.0/19
+info@hopus.net noc@hopus.net abuse@hopus.net ripe@hopus.net ripe@ajova.net abuse@ajova.net noc@ajova.net 
+
+2. 5.254.192.0/19
+registrar@net1.se peter.borgfors@net1.se abuse@net1.se 
+
+3. 23.111.32.0/19
+ripe@exepto.ru noc@exepto.ru abuse@exepto.ru serg@exepto.ru abuse@servers.ru bk@servers.com noc@netflow.ru 
+
+4. 23.111.192.0/19
+
+
+5. 31.170.192.0/19
+dausch@megaspace.de 
+6. 31.222.224.0/19
+aamira@bluezonejordan.com mkhalil@bluezonejordan.com 
+7. 46.36.224.0/19
+ripe@vectra.pl m.zwierzchowski@vectra.pl p.najduk@vectra.pl t.paprzycki@vectra.pl k.kawalerski@vectranet.pl b.rej@vectra.pl p.warowny@vectra.pl warp@master.pl mdolinski@totolotek.pl ripe@spray.pl ip-team@vectranet.pl w.kaniewski@vectra.pl abuse@vectra.pl 
+8. 46.248.0.0/19
+Implementations-Telecommunications@tnt.com darren.frowen@tnt.com 
+9. 46.251.128.0/19
+abuse@mobily.com.sa RIPE-ADMIN@mobily.com.sa RIPE-Admin@mobily.com.sa s.mohamed@mobily.com.sa B-RIPE-TECH@mobily.com.sa M-RIPE-TECH@mobily.com.sa mbnoc@mobily.com.sa a.baghir@mobily.com.sa 
+10. 62.69.160.0/19
+marko.hellsten@sanoma.fi noc@sanoma.fi pasi.louko@wipro.com 
+11. 62.233.32.0/19
+lir.contact@azuria.net noc@azuria.net noc@multi-visp.net abuse@azuria.net arthur@azuria.fr 
+12. 77.32.192.0/19
+kapilandarmand@dualtech.fr armand.thiberge@dualtech.fr armand@sendinblue.com devops@sendinblue.com 
+13. 77.223.96.0/19
+registry@rednet.ru ripe-contact@rednet.ru abuse@rednet.ru krok@rednet.ru 
+14. 77.223.224.0/19
+lir@mnitelecom.pl lir@hyperion.net.pl ripe@hyperion.net.pl adamk@hyperion.pl tomaszd@hyperion.pl r.szymanski@mnicu.pl m.tur@mnitelecom.pl mtur@mni.pl bok@profiline.pl bgp@profiline.pl abuse@profiline.pl p.sulkowski@profiline.pl hostmaster@profiline.pl lir@hyperion.pl theryll@telprojekt.pl p.dechamps@lycee-moliere.org ripe-notify@lemmers.be abuse@dnet.pl 
+15. 77.233.128.0/19
+ipadmin@vodafone.com emlyn.jones@vodafone.com ripemaster@yourcommunications.co.uk ipabuse@vodafone.co.uk peering@yourcomms.net abuse@yourcomms.net noc@yourcomms.net 
+16. 77.236.128.0/19
+araiyes@stc.com.sa registry@stc.com.sa info@irnetco.net suliman.alzain@saudi.net.sa registry@saudi.net.sa abuse@saudi.net.sa dosary@saudi.net.sa 
+17. 80.238.32.0/19
+abuse@sky.uk hostmaster@sky.uk nikolaos.bezirgiannidis@sky.uk ripe-update@sky.uk ripe@bskyb.com abuse@bskyb.com Freida.Tallon@bskyb.com ripe-notify@uk.psi.com abuse@sky.com peering@sky.uk ripe@josebus.org mark.ivens@sky.uk 
+18. 82.100.128.0/19
+wmsalem@gmail.com weam.salem@syriantelecom.sy exp-dir@net.sy 
+19. 82.115.224.0/19
+tsg@dialogue.net andrew.basterfield@dialogue.net richard.doughty@dialogue.net 
+20. 82.197.32.0/19
+
+21. 82.198.32.0/19
+scs-ipnetworks@list2.orange.com aluis.gonzalez@orange.com abuse@orange.es javier.castillo@orangex.es abuse@orangex.es aluis.gonzalez@orange-ftgroup.com noc.es@orange-ftgroup.com ripe_tech@uni2.es adminripe.es@orange-ftgroup.com victor.rodriguezs@orange-ftgroup.com gorka.sanchez@orange-ftgroup.com 
+22. 82.198.224.0/19
+lir@capita.co.uk lawrence.guedes@capita.co.uk 
+23. 84.17.32.0/19
+ripeadm@momax.it a.piccioli@momax.it m.salvini@momax.it f.pettini@momax.it ntwk@momax.it abuse@momax.it 
+24. 84.18.160.0/19
+TR.IP-ADMIN@thomsonreuters.com chad.kleinschmidt@thomsonreuters.com support@uk.uu.net abrimson@datastreamicv.com andy.walker@primark.com james.mcghee@thomson.com 
+25. 85.112.192.0/19
+26. 85.116.64.0/19
+tolvun@tolvun.is halli@eyjar.is halli@tolvun.is 
+27. 85.190.96.0/19
+steven@hostnet.nl noc@hostnet.nl abuse@hostnet.nl peering@hostnet.nl 
+28. 85.193.160.0/19
+ripe-notify@linznet.at LIR@linznet.at rs@linznet.at 
+29. 87.250.160.0/19
+30. 88.81.0.0/19
+noc@arabcircle.net.sa adel@arabcircle.net.sa khalid@arabcircle.net.sa 
+31. 88.82.128.0/19
+infrastructureteam@chessict.co.uk assist@pinnacleplc.co.uk ripe@pinnacleplc.co.uk networkoperations@chesstelecom.com network@pinnacleplc.co.uk systems@abel.net.uk abuse@abel.net.uk 
+32. 89.21.96.0/19
+abuse@atlastelecom.ro noc@atlastelecom.ro j.szilagyi@atlastelecom.ro hostmaster@rnc.ro office@atlastelecom.ro 
+33. 89.184.224.0/19
+noc@centelcom.ru olga.a.orlova@rt.ru ripe@rt.ru vyacheslav.shelukhin@rt.ru yurov@mo.center.rt.ru abuse@rt.ru noc-ip@rt.ru peering@rt.ru geo@ns.kuban.ru Nikita.Semencha@south.rt.ru noc@vt.ru mav@samtel.ru yu.nazarov@samara.vt.ru lir@ncnet.ru noc@ncnet.ru abuse@moscow.rt.ru PBuzhinsky@tvoe.tv AKalmykov@tvoe.tv ikaras@tvoe.tv PetrBuz@tvoe.tv ip-reg@ncc.primorye.ru lsm@tts.magadan.su pre@tts.magadan.su dnikiforov@nsk.tvoe.tv noc@nchelny.ru abuse@chelni.net noc@chelni.net noc@samtel.ru abuse@samtel.ru postmaster@samtel.ru admin@telenet.ru noc@telenet.ru i.lebedev@telenet.ru tsr@telenet.ru noc@vologda.ru e.platonova@vologda.ru leon@vologda.ru ipre@mfist.usi.ru kasymov-yus@ural.rt.ru asd@ab.ru noc@sibnet.ru noc@sinor.ru suslov@sibirtelecom.ru si_valynkin@nsk.sibirtelecom.ru ip-reg@ripn.net andrew@elkatel.ru IronWhale@gmail.com noc@elkatel.ru noc@sakhalin.ru lir@sakhalin.ru abuse@sakhalin.ru postmaster@sakhalin.ru noc@rosnet.ru abuse@rosnet.ru i.petrov@rosnet.ru serg@rosnet.ru cnt@mail.primorye.ru gav@prim.dsv.ru anr@vladivostok.ru lir@dtd.ptn.ru abuse@dtd.ptn.ru ciscoykt@yandex.ru alex_cooler@sakha.ru vad@tomsknet.ru evy@ripn.net ip-dbm-request@ripn.net ip-box@ripn.net rtip-reg@ripn.net o.goldobin@rosnet.ru vps@sibmail.ru vps@sibnet.ru noc@sutc.ru abuse@sutc.ru vg@mari-el.ru ip-reg@noc.kamchatka.ru abuse@noc.kamchatka.ru ip@noc.kamchatka.ru peering@noc.kamchatka.ru postmaster@noc.kamchatka.ru support@mail.kamchatka.ru noc@noc.kamchatka.ru lir@noc.kamchatka.ru ras@dagsvyaz.ru adm@dinet.ru avb@san.ru den@amur.dsv.ru dvi@amur.dsv.ru admin@nms.amur.ru a.popkov@en-ter.ru osa@FreeBSD.org maestro@datacom.natm.ru noc@kht.ru red@kht.ru aleksandr.i.ivanov@south.rt.ru sergey.guznov@south.rt.ru a.perov@sura.ru mbilkevich@kirov.ru mike@moris.ru mike@moris.com noc@tversvyaz.ru vladv@tvcom.ru gukkels@gmail.com noc@telecet.com abuse@telecet.com ripe@telenet.ru dmvy@telenet.ru noc@rosnet.net v.melnikov@rtlabs.ru kiselev@centelcom.ru kiselev@spdop.ru nic@lipetsk.ru ripe@tvoe.tv abuse@primorye.ru g-adv@mail.ru noc@lsi.ru abuse@lsi.ru stv.monitoring@south.rt.ru smelik-av@ural.rt.ru noc@gd.usi.ru mironov@ineco.ryazan.su noc@ineco.ryazan.su ermak@ineco.ryazan.su kurych@mail.esoo.ru kurych@ineco.ryazan.su asu@tmb.ru ms@tmb.ru kom@tmb.ru vaa@yartelecom.ru noc@tomsknet.ru Valery.Kalinin@Megafon.ru Valeriy.Kalinin@Megafon.ru hunter@keeper.natm.ru i.korolev@baltnet.ru a.yurushev@baltnet.ru noc@vsi.ru abuse@vsi.ru avs@rtcomm-yug.ru cae@donpac.ru ipadm@donpac.ru eagle@donpac.ru wert@donpac.ru petroff@sura.ru denis.mishin@nw.rt.ru Sergey.N.Ermakov@nw.rt.ru ncc@novgorod.net registry@eltel.net vvd@ellink.ru eyv@ellink.ru a.yu.orlov@volga.rt.ru stepanov@mail.esoo.ru nikonov@esoo.ru a.balashov@volga.rt.ru a.objorin@volga.rt.ru noc@atricom.ru baas@atricom.ru burkov@atricom.ru irina@atriplus.ru alec@simix.ru noc@volga.rt.ru cherry@kes.kuban.ru Vitaliy_Petrenko@center.rt.ru Andrey_Nesterov@center.rt.ru noc@ttknet.ru abuse@ttknet.ru lir@ttknet.ru registry@atnet.ru noc-adm@atnet.ru noc@surnet.ru abuse@surnet.ru kalina@avtlg.ru ainf@avtlg.ru noc@elcom.ru ip-reg@noc.brsi.ru abuse@noc.brsi.ru sysadmin@moris.ru kostina-il@ural.rt.ru i.v.nikolaenko@center.rt.ru smena@astranet.ru mikhail.filimonov@south.rt.ru alex@astranet.ru rusin@astranet.ru slava@kraslan.ru admin@kursknet.ru ig@kursknet.ru kokorin-syu@mfist.usi.ru operator@gorny.ru noc@gorny.ru lir@ncc.sibirtelecom.ru manzarov@buryat.sibirtelecom.ru vshevchenko@chita.sibirtelecom.ru andrey.belashov@center.rt.ru noc@orel.ru D.Tarasov@center.rt.ru dns@turbo.nsk.su max@turbo.nsk.su sobolev@khakasnet.ru ab@soes.su rsl@radnet.ru ont@radnet.ru artur.v.sardlishvili@south.rt.ru arsen.a.guchakov@south.rt.ru uri@kbrnet.ru person@dagsvyaz.ru Sergey_Istomin@centertelecom.ru unequal@gmail.com a.malin@mail.stcompany.ru PanovK@kes.ru hostmaster@krasnet.ru noc@mari-el.ru tech-noc@en-ter.ru ip-reg@urtc.ru den@urtc.ru kia@urtc.ru pbd@urtc.ru noc@rosmail.com noc@irtel.ru vek@irtel.ru noc@mo.center.rt.ru gummy@lipetsk.ru zinov@omskelecom.ru adm@omskelecom.ru noc@tula.net inoyat_kayumov@center.rt.ru xatxu1973@yandex.ru noc@kaluga.ru abuse@kaluga.ru monitoring@kaluga.ru dnsmaster@kaluga.ru hosting@kaluga.ru support@kaluga.ru 
+34. 91.187.0.0/19
+lir@infonet.by ripe@ghofi.com podgoretskiy@me.com murat@infonet.by glush@infonet.by unit@infonet.by 
+35. 93.179.32.0/19
+Сеть 36. 94.119.32.0/19
+является подсетью более крупной сети
+37. 94.136.224.0/19
+shaun.nicholls@comms365.com support@comms365.com noc@comms365.com anthony.cook@comms365.com 
+38. 109.107.128.0/19
+Сеть 39. 176.92.96.0/19
+40. 176.118.224.0/19
+dm@p-svs.ru 
+41. 178.72.32.0/19
+pmf@ice.net 
+42. 178.169.32.0/19
+ra@siberianet.ru ashiray@mail.ru hostmaster@multi-net.ru 
+43. 178.211.128.0/19
+hostmaster@energytel.net.ua osp@pfts.com yokodzun@yokodzun.kiev.ua yokodzun@gmail.com 
+44. 188.123.128.0/19
+mpls@silknet.com belmasova@gmail.com lir@silknet.com zbabutsidze@geocell.ge tabashidze@geocell.ge denis@ripe.net art@utg.ge 
+45. 188.123.160.0/19
+ripeadmin@damamax.jo ripeadmin@neutelecom.com 
+46. 193.193.32.0/19
+ipadmin@vodafone.com ncipsupport@vodafone.com ipabuse@vodafone.co.uk ipadmin@eu.cw.net ripe-adm@energis.com abuse@vodafone.com peter.byrne@cwcom.co.uk ipadmin@de.cw.com peeringsupport@vodafone.com transportukipcore@vodafone.com peeringrequest@vodafone.com peering-support@cw.net peering-request@cw.net ipv6@cw.net ipmulticast@cw.net ipadmin@cw.net 
+47. 193.203.160.0/19
+ripehostmaster@primustel.co.uk de@ptgi-ics.com abuse@primustel.co.uk 
+48. 193.236.0.0/19
+noc@fccn.pt ipadm@fccn.pt report@cert.rcts.pt assis.guerreiro@dns.pt 
+49. 194.6.64.0/19
+50. 194.46.96.0/19
+hostmaster@tibus.net tib@tibus.net support@tibus.net tib@tibus.com support@tibus.com peering@tibus.com belfast@tibusconnect.com 
+51. 194.105.64.0/19
+ripe@gcicom.net service.desk@gcicom.net abuse@gcicom.net tom.sergeant@gcicom.net noc@fmn.uk.net 
+52. 194.117.96.0/19
+notify@sap.com netmaster@sap.com abuse@sap.com online-support@sap.com braun@sap.com ripe@browny.de notify@browny.de postmaster@sap.com hostmaster@sap.com internet@sap.com 
+53. 194.149.160.0/19
+ripe-mnt@as12876.net ripe-lirml@proxad.net abuse@proxad.net ripe-misc@proxad.net ripemaster@proxad.net ripe-notify@proxad.net abuse@online.net abuse@iliad-entreprises.fr ripe@isdnet.net ripe-mnt@net.tiscali.fr benoit.grange@fr.tiscali.com abuse@tiscali.fr ripe@online.net app@proxad.net tpp@corp.free.fr jerome.fleury@telecomitalia.fr jerome.fleury@fr.tiscali.com 
+54. 194.213.128.0/19
+registry@evry.com abuse@evry.com ripe-role@evry.com hammervold@no.ibm.com peering@evry.com knut.noremsaune@evry.com lir-admin@evry.com 
+55. 194.213.160.0/19
+56. 194.222.0.0/19
+ipabuse@vodafone.co.uk ipadmin@vodafone.com as-guardian@demon.net hostmaster@demon.net 
+57. 194.222.32.0/19
+58. 195.58.64.0/19
+59. 195.60.32.0/19
+dknebel@dxc.com NOC6900@hp.com georg.chini@hp.com noc6900@hp.com 
+
+Закончили здесь
+
+60. 195.82.224.0/19
+ip.netdesign@a1.at abuse@a1.at hostmaster@aon.at ripe-guardian@aon.at grx@a1.at noc@aon.at h.fleiss@mobilkom.at noc@nextra.at 
+61. 195.96.128.0/19
+nik@archway.net howard@archway.net roger@archway.net master@archway.net terry@archway.net 
+62. 195.98.96.0/19
+abuse@gaoland.net lir@gaoland.net lir@fr.sfr.fr noc@gaoland.net noc@jmsp.net cedric.bodiguel@sfr.com abuse-security@cegetel.net lir@sfr.com noc@erenis.net abuse@erenis.net lir@erenis.net benaissa.elouariachi@sfr.com david.gavarret@ldcom.fr dsclouddocloudsfrcloudincidents@sfr.com ripe@ncnumericable.com abuse@numericable.fr eric.alleaume@sfr.com support@esplanade3000.net peering@altitudetelecom.fr celine@agarik.com 
+63. 195.112.160.0/19
+64. 195.144.128.0/19
+65. 195.182.160.0/19
+ipam@virginmedia.co.uk postmaster@virginmedia.com hostmaster@virginmedia.net chris.stallwood@telewest.co.uk mike@cableinet.net steve@blueyonder.co.uk sb@cableinet.co.uk steve.layzell@blueyonder.co.uk ripe@telewest.net planning.informationmanagement@virginmedia.co.uk planning.information@virginmedia.co.uk hostmaster@virginmedia.co.uk peering@virginmedia.co.uk 
+66. 195.184.128.0/19
+jaco.devries@bt.com ipp@bt.com ipadmin@bt.com inna@infonet.com peter.demeter@bt.com krejza@centrum.cz jean.sarrazin@bt.com paul.hitchen@bt.com peering@bt.com abuse@eu.bt.net ripe-admin-c@infonet-europe.net matthias.blum@bt.com peering@bt.infonet.com noc@de-ignite.net de-fp-btignite-abuse@bt.com ripe@de-ignite.net robert.wurzer@bt.com 
+67. 195.209.32.0/19
+ripe@reconn.ru noc@reconn.ru abuse@reconn.ru support@reconn.ru pavel.su@me.com pavel@reconn.ru 
+68. 212.7.96.0/19
+ip_ripe@tele2.ru antonio@cell.ru noc@cell.ru abuse@cell.ru info@skylink.ru support@skylink.ru 
+69. 212.12.96.0/19
+info@rehwork.de a.rehbehn@rehwork.de peering@rehwork.de 
+70. 212.18.96.0/19
+it.services@bcge.ch 
+71. 212.19.64.0/19
+ipreq@daisygroupplc.com abuse@daisygroupplc.com duncan.lockwood@daisygroup.com peering@as5413.net steve@colam.co.uk ripe@phoenix.co.uk farris.zandafshar@pipex.net rizwan.shah@pipex.net 
+72. 212.38.128.0/19
+ripe@cyberia.net.sa cyberiaripe@cyberia.net.sa abuse@cyberia.net.sa wassef@cyberia.net.sa rehank@almusbah.com 
+73. 212.43.160.0/19
+74. 212.49.32.0/19
+ripe@internetia.pl abuse@internetia.pl bgp@internetia.pl noc@inetia.pl abuse@inetia.pl ripe@netia.pl b.bortel@p-net.pl ripe@zax.pl abuse@csk.pl ripe@csk.pl darek@saite.com.pl 
+75. 212.52.0.0/19
+r.plenter@pinkroccade.com ripe.registry@neroc.nl henk.provily@brouwer.nl jeroen.van.gemert@brouwer.nl 
+76. 212.54.224.0/19
+gianluca.sironi@gs-lir.it hostmaster@gs-lir.it 
+77. 212.63.160.0/19
+78. 212.70.96.0/19
+dragos.serban2@vodafone.com diego.vera2@vodafone.com SecurityOperations@vodafone.com 
+79. 212.79.224.0/19
+ripe@it.avira.com ripe@as24875.net abuse@as24875.net noc@as24875.net support_nl@avira.com noc@avira.com 
+80. 212.87.96.0/19
+lmeulema@mail.mobistar.be dhaegema@mail.mobistar.be wpopp@mail.mobistar.be peering@mail.mobistar.be sbenoit@mail.mobistar.be Dirk.Haegemans@mail.mobistar.be ldurand@mail.mobistar.be abuse@mail.mobistar.be laurent.durand@mail.mobistar.be 
+81. 212.105.128.0/19
+noc@intl.att.com info@pietercil.com 
+82. 212.106.96.0/19
+hostmaster@akhter.com alan.laffoley@akhter.co.uk mark.down@akhter.co.uk mike.sein@akhter.co.uk noc@akhter.com 
+83. 212.107.64.0/19
+Iana-admin@euronext.com iana-admin@euronext.com llejeune@bourse-connect.com abuse@fr.colt.net pjousse@nyx.com xpontacq@bourse-connect.com jcasol@bourse-connect.com ripe-notify@bourse-connect.com ripe-notify@aems.net Corinne.Fornara@aems.net 
+84. 213.147.224.0/19
+Сеть 85. 213.154.96.0/19
+Сеть 86. 213.154.128.0/19
+87. 213.156.160.0/19
+DL-IT-IP-Admin@symantec.com vlad_dekic@symantec.com desupport@monitoredsecurity.com 
+88. 213.158.64.0/19
+ripe@dada.eu sistemisti@register.it abuse@register.it support@register.it 
+89. 213.177.192.0/19
+cor@argored.com hostmaster@nora.net 
+90. 213.188.64.0/19
+hussein.hatough@vtel.jo eatallah@tpmc.com.sa 
+91. 213.189.96.0/19
+bjorn.gustavsson@inera.se sa@ip-only.net mats.arbman@it.uas.lul.se noc@lul.se 
+92. 213.196.64.0/19
+ripe@sdsistemi.ba 
+93. 213.234.32.0/19
+krzysztof.piwowar@accenture.com razripe@raz.org raz@raz.org 
+94. 217.146.0.0/19
+aw@datasix.at ripe@anexia.at ripe@datasix.at tvoss@anexia-it.com 
+95. 23.239.128.0/19
+stuart.dale@ba.com tim.yellop@ba.com 
+96. 31.128.64.0/19
+registry@ip.datagroup.ua noc@ip.datagroup.ua abuse@ip.datagroup.ua noc@datagroup.ua registry@newline.net.ua hostmaster@itt.net.ua sergey.naydich@gmail.com abuse@paco.net abuse@adsl.datagroup.com.ua noc@teleportsv.net peering@ip.datagroup.ua billing@as3326.net net@datagroup.ua abuse@as3326.net noc@as3326.net peering@as3326.net postmaster@as3326.net security@as3326.net ripe-notify@as3326.net admin@nikopol.net alexx@nikopol.net hostmaster@paco.net tim@newline.net.ua 
+Сеть 97. 51.163.160.0/19
+98. 79.174.96.0/19
+renate.neumueller@gespag.at franz.hoheiser-pfoertner@wienkav.at waldner@nic.at lendl@nic.at ip-adressen@wienkav.at hostmaster@uta.at 
+99. 89.23.32.0/19
+ak@ucanet.ru noc@mega-net.ru abuse@mega-net.ru 
+100. 91.242.224.0/19
+info-lineup@yandex.ua 
+101. 91.247.160.0/19
+i.intertax@gmail.com 
+102. 144.178.192.0/19
+lir@eurofiber.nl servicedesk@eurofiber.com adriaan.vandenbosch@eurofiber.com claudia.dewitte@sanasmile.nl ip-reg@kpn.net ripemaster@isiconnexion.nl noc@eurofiber.com abuse@eurofiber.com noc@isiconnexion.nl a.hannemann@isilinx.nl 
+Сеть 103. 147.12.32.0/19
+104. 147.12.64.0/19
+anthony.pycarelle@fluvius.be info@eandis.be jasper.claeys@fluvius.be peter.tribout@infrax.be fluviusnet@fluvius.be 
+Сеть 105. 147.12.96.0/19
+106. 176.96.192.0/19
+abuse@orange.es scs-ipnetworks@list2.orange.com aluis.gonzalez@orange.com javier.castillo@orangex.es abuse@orangex.es aluis.gonzalez@orange-ftgroup.com noc.es@orange-ftgroup.com ripe_tech@uni2.es adminripe.es@orange-ftgroup.com victor.rodriguezs@orange-ftgroup.com gorka.sanchez@orange-ftgroup.com 
+107. 176.104.64.0/19
+108. 193.19.32.0/19
+ripe@sanofipasteur.com vigouroux@tls1.sanofi.fr noc@rain.fr mikea@rpr-cologne.de ETSIPAdmin@sanofi-aventis.com cyril.briard@sanofi-aventis.com 
+109. 193.23.192.0/19
+hostmaster@evonik.com stefan.jussen@evonik.com gregor.kalus@evonik.com patrick.willger@evonik.com uemit.altan@evonik.com 
+110. 193.24.96.0/19
+HAMMER@de.ibm.com 100434.2262@compuserve.com dni-nic-de@de.ibm.com 
+111. 193.25.128.0/19
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+112. 193.26.64.0/19
+glo-ns-eng@unilever.com GLO-NS-ENG@unilever.com IP.Abuse@Unilever.Com Matt.Foster@unilever.com 
+113. 193.26.160.0/19
+marcus.klimm@de.nestle.com 
+114. 193.37.0.0/19
+kevin.dace@thls.org 
+115. 193.38.192.0/19
+support@cwci.net Andy.Bell@co-operative.coop Paul.Westhead@co-operative.coop Alasdair.Saunders@co-op.co.uk David.Lodge@co-op.co.uk Paul.Westhead@coop.co.uk paul.westhead@co-operative.coop ripe.abuse@co-opertive.coop 
+116. 193.148.192.0/19
+GLOBEISITITScesNetworkScesWANSME@nestle.com daniel.casutt@nestle.com gilles.krieger@nestle.com ripe-notify@uninett.no morten.peersen@no.nestle.com odd.odnes@no.nestle.com pascal.dominique@fr.nestle.com lionel.bouvier@fr.nestle.com pascal.dominique@waters.nestle.com addr-reg@rain.fr yves.berthou@fr.nestle.com registry@infonet.nl Cyrille.Maire@nestle.com 
+117. 193.151.128.0/19
+aidinsystem@gmail.com 
+118. 193.202.192.0/19
+119. 193.221.224.0/19
+liviu.popescu@eurocontrol.int Ara.Khatcherian@eurocontrol.int emmanuel.ceulemans@eurocontrol.be georges.anastassiou@eurocontrol.int phil.smith@eurocontrol.int eivan.cerasi@eurocontrol.int 
+120. 194.13.32.0/19
+rm-globalmnsipmanage@intl.att.com IPManagement@shell.com abuse@shell.com dick.smits@shell.com 
+121. 194.35.128.0/19
+herbert.pires@effem.com rafael.granjeiro@effem.com danilo.munis@effem.com daniel.orama@effem.com yuri.korovin@effem.com dmitry.frolov@effem.com 
+122. 194.41.64.0/19
+kk26377@imceu.eu.ssmb.com 
+123. 194.59.64.0/19
+124. 194.124.0.0/19
+manfred.seiler@bl.ch noc@bl.ch abuse@bl.ch 
+125. 195.190.224.0/19
+KPN-IP-Office@kpn.com abuse@kpn.com hostmaster@eurorings.net kpn-ip-office@kpn.com noc@kpn.com peering-office@kpn.com domain@kpn.com peter.bosman@kpn.com bastiaan.schenk@kpn.com noc-kpncm.datacenters@kpn.com abuse@planet.nl security@planet.nl. lir@planet.nl netmaster@kpn.com ripe@eurodings.de thomas.jessen@de.kpn netmaster@de.kpn ip-office@kpn.com helpdesk@ezorg.nl ip.admin@getronics.com registry@infonet.nl ipregistry@kpn.net aantiquera@ibasis.net renebi@kpn.net zeljko.rumora@kpn.com testmaster@ip.kpn.net netmaster@kpn.net ip-reg@kpn.net noc@de.kpn 
+126. 213.162.160.0/19

@@ -1,0 +1,135 @@
+0. 5.28.192.0/18 
+ripe@ipffm.de peering@ipffm.de 
+
+1. 5.32.192.0/18 
+salim@omantel.om admin-ripe@omantel.om tech-ripe@omantel.om mubarak.amri@omantel.om yassir.shaqsi@omantel.om salim.mazrui@omantel.om 
+
+2. 5.172.64.0/18 
+as@timenet.it f.iorio@timenet.it abuse@timenet.it noc@timenet.it 
+
+3. 37.221.0.0/18 
+lir@gaamnet.ir mohammad_esmi@yahoo.com noc@mabnatelecom.com 
+
+4. 46.40.128.0/18 
+wmsalem@gmail.com weam.salem@syriantelecom.sy exp-dir@net.sy 
+
+5. 46.143.0.0/18 
+ripe@asiatech.ir abuse@asiatech.ir me@shahabv.com shahrad@shahrad.net hello@fcp-network.ir 
+
+6. 46.143.64.0/18 
+ripe@asiatech.ir abuse@asiatech.ir me@shahabv.com shahrad@shahrad.net hello@fcp-network.ir 
+
+7. 46.164.64.0/18 
+ripe@asiatech.ir abuse@asiatech.ir me@shahabv.com shahrad@shahrad.net hello@fcp-network.ir 
+
+8. 62.50.192.0/18 
+entadmineurope@ibahn.com 
+
+9. 62.193.192.0/18 
+ripe@amen.fr abuse@amen.fr network@amen.fr martial@amen.fr noc@amenworld.com gorun.renault@amen.fr 
+
+—еть 10. 77.67.128.0/18 
+€вл€етс€ подсетью более крупной сети
+
+11. 77.67.192.0/18 
+evgeniy.vasilets@life.com.by Yevgeniy.Vasilets@life.com.by Arthur.Shchurevich@life.com.by evgeniy.vasiletsi@life.com.by natallia.kuleshova@life.com.by andrew.sokolovski@life.com.by 
+
+12. 77.91.128.0/18 
+tech-lir@telesystems.ua abuse@telesystems.ua notify@telesystems.ua 
+
+13. 78.141.192.0/18 
+bitbucket@ripe.net hostmaster@ripe.net abuse@ripe.net ops@ripe.net 
+
+14. 82.143.192.0/18 
+ripe@fibia.dk noc@fibia.dk hostmaster@fibia.dk peering@fibia.dk abuse@fibia.dk peering@dbnet.dk noc@dbnet.dk lir@dbnet.dk abuse@dbnet.dk mt@conscia.dk 
+
+15. 83.175.0.0/18 
+lirbbn@telecomitalia.it giovanni.breda@telecomitalia.it leandro.biosa@telecomitalia.it Nicola.Pavoni@telecomitalia.it datacomnet@telecomitalia.it 
+
+16. 85.10.128.0/18 
+ripe@amen.fr abuse@amen.fr network@amen.fr martial@amen.fr noc@amenworld.com gorun.renault@amen.fr 
+
+17. 85.188.192.0/18 
+abuse@sky.uk hostmaster@sky.uk nikolaos.bezirgiannidis@sky.uk ripe-update@sky.uk ripe@bskyb.com abuse@bskyb.com Freida.Tallon@bskyb.com ripe-notify@uk.psi.com abuse@sky.com peering@sky.uk ripe@josebus.org mark.ivens@sky.uk 
+
+18. 85.195.128.0/18 
+araiyes@stc.com.sa registry@stc.com.sa info@irnetco.net suliman.alzain@saudi.net.sa registry@saudi.net.sa abuse@saudi.net.sa dosary@saudi.net.sa 
+
+19. 87.119.0.0/18 
+lir@mnitelecom.pl lir@hyperion.net.pl ripe@hyperion.net.pl adamk@hyperion.pl tomaszd@hyperion.pl r.szymanski@mnicu.pl m.tur@mnitelecom.pl mtur@mni.pl bok@profiline.pl bgp@profiline.pl abuse@profiline.pl p.sulkowski@profiline.pl hostmaster@profiline.pl lir@hyperion.pl theryll@telprojekt.pl p.dechamps@lycee-moliere.org ripe-notify@lemmers.be abuse@dnet.pl 
+
+20. 89.149.192.0/18 
+abuse@nl.leaseweb.com. subpoenas@nl.leaseweb.com. ripe@network.leaseweb.com ripe@ocom.com ripe@nl.leaseweb.com ripe@leaseweb.com abuse@nl.leaseweb.com 
+
+21. 89.150.64.0/18 
+ripe@fibia.dk noc@fibia.dk hostmaster@fibia.dk peering@fibia.dk abuse@fibia.dk peering@dbnet.dk noc@dbnet.dk lir@dbnet.dk abuse@dbnet.dk mt@conscia.dk 
+
+22. 89.254.0.0/18 
+bjoern.holten@speedcast.com 
+
+23. 95.82.64.0/18 
+ripe-kartel-mobile@beeline.kz NSommer@beeline.kz 
+
+24. 95.152.128.0/18 
+ip-office@kpn.com kpn-ip-office@kpn.com info.lokaleoverheid@kpn.com abuse@kpn.com hostmaster@eurorings.net noc@kpn.com peering-office@kpn.com domain@kpn.com info@gemnet.nl peter.bosman@kpn.com 
+
+25. 109.225.128.0/18 
+ripe@asiatech.ir abuse@asiatech.ir me@shahabv.com shahrad@shahrad.net hello@fcp-network.ir 
+
+26. 128.204.64.0/18 
+lir@megafon.ru lir@MegaFon.RU info@megafon.ru abuse-mailbox@megafon.ru gnocwest_tr@megafon.ru gnoceast_backbone@megafon.ru abuse@ti.ru ripe@ti.ru moscow-lir@megafon.ru abuse@c-line.ru alexey.bekshaev@MegaFon.ru ed.shashin@c-line.ru noc@c-line.ru info@c-line.ru OYurlov@MegaFon.RU Sergey.L.Kuzmin@megafon.ru Sergey.Sokolov@megafon.ru nat@dtd.peterstar.com s.butenin@satcomline.ru noc@portal.ru g.golomidov@satcomline.ru hostmaster@peterstar.ru noc@peterstar.net alexander.simakin@Megafon.ru simakin@dtd.peterstar.com ip-reg@ripn.net sveta@comcor-tv.ru ip-dbm-request@ripn.net rtip-reg@ripn.net ip-box@ripn.net oyurlov@megafon.ru hvg@volgodonsk.ru vladimir.trenikhin@megafonural.ru Alexey.Zamorin@megafonural.ru raul.sharipov@megafon.ru SIB-IT_Network@MegaFon.ru dns-admin@megafon.ru noc@metrocom.ru ncc@tcnet.ru kvk-netadm@megafon.ru svn@chmr.ru bashkin@inar.ru eugene@inar.ru seal@nordlink.ru seal@inar.ru info@aspol.ru iptech@aspol.ru noc@synterra.ru abuse@synterra.ru peering@synterra.ru gnoceast_backbone@MegaFon.ru GNOC_KeySupport_West@MegaFon.ru peering@megafon.ru cnt-noc@megafon.ru Sergey.Sokolov@SonicDuo.com zay@tkural.ru daneko_me@tkural.ru vlg-smena_it@MegaFon.ru artem.akifyev@megafon.ru egor@szkti.ru noc@szkti.ru noc@synterra-ug.ru vladimir.andrjushhenko@megafonkavkaz.ru abuse@yotateam.ru noc@yotateam.ru lir@megagon.ru alexander.zabolev@MegaFon.ru 
+
+27. 153.94.64.0/18 
+araiyes@stc.com.sa registry@stc.com.sa info@irnetco.net suliman.alzain@saudi.net.sa registry@saudi.net.sa abuse@saudi.net.sa dosary@saudi.net.sa 
+
+28. 164.138.128.0/18 
+r.latibari@mci.ir p.kashi@mci.ir 
+
+29. 174.140.0.0/18 
+araiyes@stc.com.sa registry@stc.com.sa info@irnetco.net suliman.alzain@saudi.net.sa registry@saudi.net.sa abuse@saudi.net.sa dosary@saudi.net.sa 
+
+30. 176.65.192.0/18 
+ripe@asiatech.ir abuse@asiatech.ir me@shahabv.com shahrad@shahrad.net hello@fcp-network.ir 
+
+31. 193.194.192.0/18 
+paul.widen@alfalaval.com 
+
+32. 193.236.192.0/18 
+noc@fccn.pt ipadm@fccn.pt report@cert.rcts.pt assis.guerreiro@dns.pt 
+
+33. 194.222.64.0/18 
+ipabuse@vodafone.co.uk ipadmin@vodafone.com as-guardian@demon.net hostmaster@demon.net 
+
+34. 194.223.192.0/18 
+ripe-notify@psineteurope.co.uk ripe-lir-contacts@uk.telstra.com network-ripe@uk.telstra.com abuse@uk.telstra.com peering@uk.telstra.com hostmaster@intl.telstra.com ripe-notify@uk.telstra.com ripe-notify@psineteurope.com ripe-notify@intl.telstra.co.uk abuse@intl.telstra.com matt.hunter@uk.telstra.com emma.apted@psinet.telstra.co.uk emma.apted@psineteurope.com emma.apted@uk.telstra.com 
+
+35. 195.35.0.0/18 
+ripehostmaster@primustel.co.uk de@ptgi-ics.com abuse@primustel.co.uk 
+
+36. 195.155.0.0/18 
+teknik-n@tr.net mikail@tr.net lir@tr.net guner.kus@tr.net 
+
+37. 212.62.128.0/18 
+ripe-mnt@as12876.net ripe-lirml@proxad.net abuse@proxad.net ripe-misc@proxad.net ripemaster@proxad.net ripe-notify@proxad.net abuse@online.net abuse@iliad-entreprises.fr ripe@isdnet.net ripe-mnt@net.tiscali.fr benoit.grange@fr.tiscali.com abuse@tiscali.fr ripe@online.net app@proxad.net tpp@corp.free.fr jerome.fleury@telecomitalia.fr jerome.fleury@fr.tiscali.com 
+
+38. 213.196.128.0/18 
+hostmaster@datapark.ch otto@datapark.ch noc@datapark.ch 
+
+39. 94.244.192.0/18 
+stephan.wehrli@akb.ch 
+
+40. 134.101.64.0/18 
+tickets@itenos.de netmaster@itenos.de abuse@itenos.de peering@itenos.de 
+
+—еть 41. 137.191.128.0/18 
+€вл€етс€ подсетью более крупной сети
+
+42. 154.8.64.0/18 
+ripe-notify@psineteurope.co.uk ripe-lir-contacts@uk.telstra.com network-ripe@uk.telstra.com abuse@uk.telstra.com peering@uk.telstra.com hostmaster@intl.telstra.com ripe-notify@uk.telstra.com ripe-notify@psineteurope.com ripe-notify@intl.telstra.co.uk abuse@intl.telstra.com matt.hunter@uk.telstra.com emma.apted@psinet.telstra.co.uk emma.apted@psineteurope.com emma.apted@uk.telstra.com 
+
+43. 171.33.0.0/18 
+christof.erni@allianz-suisse.ch nikolas.zehnder@allianz-suisse.ch saleh.magdub@sunrise.net abuse.mail@allianz.ch christof.erni@allianz.ch 
+
+44. 193.177.64.0/18 
+did-inkoop@minbuza.nl mcal.verspoor@minbuza.nl ICT-RC@MINBUZA.NL 
+

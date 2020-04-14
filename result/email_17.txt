@@ -1,0 +1,147 @@
+0. 5.22.0.0/17 
+ripe@asiatech.ir abuse@asiatech.ir me@shahabv.com shahrad@shahrad.net hello@fcp-network.ir 
+
+1. 5.75.128.0/17 
+ripe-mntner@hetzner.de info@hetzner.de ripe@hetzner.de abuse@hetzner.de peering@hetzner.de martin.fritzsche@hetzner.de stephan.konvickova@hetzner.de sebastian.krannich@hetzner.de tobias.frenz@hetzner.de 
+
+2. 5.161.0.0/17 
+ripe-mntner@hetzner.de info@hetzner.de ripe@hetzner.de abuse@hetzner.de peering@hetzner.de martin.fritzsche@hetzner.de stephan.konvickova@hetzner.de sebastian.krannich@hetzner.de tobias.frenz@hetzner.de 
+
+3. 5.161.128.0/17 
+ripe-mntner@hetzner.de info@hetzner.de ripe@hetzner.de abuse@hetzner.de peering@hetzner.de martin.fritzsche@hetzner.de stephan.konvickova@hetzner.de sebastian.krannich@hetzner.de tobias.frenz@hetzner.de 
+
+4. 31.169.128.0/17 
+hostmaster@sloane.cz martin.krautwurst@upc.cz abuse@sloane.cz ip@upc.cz hostmaster@mistral.cz abuse@mistral.cz spam@mistral.cz ripe@lgi.com ripe@libertyglobal.com ales.lednej@karnevalmedia.cz josef.gryga@upc.cz miroslav.laus@upc.cz vaja@ttc-teleport.cz 
+
+5. 31.176.0.0/17 
+solip@superonline.net TEAM-IPMPLS@superonline.net SOLIP@SUPERONLINE.NET cuneyt.morten@superonline.net 
+
+6. 37.28.0.0/17 
+kamalnath.singh@nawras.om engdataipcore@ooredoo.om ripe@nawras.om nenadpetar.micic@nawras.om 
+
+7. 37.63.0.0/17 
+sslavov@blizoo.bg rmitov@blizoo.bg lir@a1.bg ripe@mtel.net RIPE.Abuse@a1.bg registry-ripe@spnet.net b.hadjimarkov@mobiltel.bg stoyan.s.stoyanov@mobiltel.bg apetrov@mtel.net v.kotarov@mobiltel.bg djok@evo.bg info@megalan.bg pspasov@spnet.net registry@spnet.net lir@mobiltel.bg evgeni.tsvetanov@mobiltel.bg aschojkova@orbitel.bg sstefanov@orbitel.bg ripe-dbm@ripe.net 
+
+8. 37.63.128.0/17 
+ripe@asiatech.ir abuse@asiatech.ir me@shahabv.com shahrad@shahrad.net hello@fcp-network.ir 
+
+9. 46.58.0.0/17 
+hostmaster@amcor.com donato.cappucci@amcor.com Mika.Savela@amcor-flexibles.com 
+
+10. 62.62.0.0/17 
+Friedrich.Kloibhofer@ec.europa.eu Otman.DAHEL@ec.europa.eu otman.dahel@ec.europa.eu blandine.lerch@ec.europa.eu jean.foidart@ec.europa.eu 
+
+11. 62.111.0.0/17 
+abuse1@headlight.de admin@headlight.de guardian@headlight.de wh@germany.com 
+
+12. 77.65.128.0/17 
+ripe@internetia.pl abuse@internetia.pl bgp@internetia.pl noc@inetia.pl abuse@inetia.pl ripe@netia.pl b.bortel@p-net.pl ripe@zax.pl abuse@csk.pl ripe@csk.pl darek@saite.com.pl 
+
+13. 80.209.0.0/17 
+ripe@fibia.dk noc@fibia.dk hostmaster@fibia.dk peering@fibia.dk abuse@fibia.dk peering@dbnet.dk noc@dbnet.dk lir@dbnet.dk abuse@dbnet.dk mt@conscia.dk 
+
+14. 81.160.0.0/17 
+constanze.buerger@bmi.bund.de LIR@bdbos.bund.de lir@bdbos.bund.de 
+
+15. 81.208.128.0/17 
+peter.north@coventry.ac.uk 
+
+16. 83.118.0.0/17 
+dl-ripe@euronet.com dl-ripe@is.online.nl DL-ripe@euronet.com abuse@euronet.com DL-network.peering@euronet.com DL-network.operations@euronet.com 
+
+17. 85.134.128.0/17 
+leo.lundy@imaginegroup.ie dermot@irishbroadband.ie registry@imagine.ie barry@irishbroadband.ie michael_t@irishbroadband.ie abuse@irishbroadband.ie andy@technolabs.co.uk ripe@technolabs.co.uk noc@imagine.ie barry@opensolutions.ie peering@irishbroadband.ie sales@irishbroadband.ie netops@irishbroadband.ie ripe@imaginegroup.ie abuse@imaginegroup.ie cm.ripe@cwi.ie peering@imagine.ie 
+
+18. 85.153.128.0/17 
+solip@superonline.net TEAM-IPMPLS@superonline.net SOLIP@SUPERONLINE.NET cuneyt.morten@superonline.net 
+
+19. 91.107.128.0/17 
+ripe-mntner@hetzner.de info@hetzner.de ripe@hetzner.de abuse@hetzner.de peering@hetzner.de martin.fritzsche@hetzner.de stephan.konvickova@hetzner.de sebastian.krannich@hetzner.de tobias.frenz@hetzner.de 
+
+20. 95.104.128.0/17 
+lir@altair-tv.ru noc@mtu.ru gleb@altair-tv.ru lir-south-broadband@mts.ru lir@kuban.mts.ru lir@mtu.ru abuse@mtu.ru postmaster@mtu.ru ddos-reports@mtu.ru lir.ural@mts.ru salexey@spb.mts.ru noc@overta.ru ncc@saratov.mts.ru vbsmirno@mts.ru zgtk@zgtk.ru xoopu@fecity.ru netadmin@sib.mts.ru V.Kretinin@inteleca.org V.Kretinin@sib.mts.ru noc@tensortelecom.ru m.rodin@kaluga.comstar noc@mtsnet.ru spiridonov@spb.mts.ru fedoseev@spb.mts.ru abuse@mts.ru info@mts.ru net.adm@mts.ru labuta@samara.mts.ru lir@mtu.ri ilnar@taif-telcom.ru hostmaster@taif-telcom.ru dimon@astelit.ru parfenov@comstar.ru noc@tatarstan.mts.ru abuse@tatarstan.mts.ru spam@miass.multinex.ru a.perov@miass.multinex.ru a.trusov@dobroe.tv nesh@dobroe.ru o.anisimov@mts.ru hostmaster@lanck.net noc.nnov@mts.ru noc@izh.mts.ru saapz@mtu.ru saapz@mts.ru s.kataev@ural.mts.ru V.kretinin@sib.mts.ru rytitov@mts.ru omzavalishin@itrtc.ru rslyubov@mts.ru avpervuk@mts.ru oz@ptcomm.ru info@ptcomm.ru kass@tpi.ru aumnikov@ivanovo-gsm.ru a.sorokin@kirov.mts.ru gleb.korneev@gmail.com oems@lanck.net noc@ccl.ru abuse@ccl.ru au@rekom.ru mvsyvoro@mts.ru mpls.vld@mts.ru vvostran@mts.ru noc@tbt.ru leontyev@mts.ru abramov@comstar.ru dmitryl@ural.mts.ru bushuev@ural.mts.ru vladdu@mtsnet.ru noc@komi.mtsnet.ru noc@arzamas.multinex.ru lir@saratov.comstar ripe@ural.comstar rysaev_mm@nvrtc.ru nikolay.shishkin@chita.mts.ru avbystr1@arkhangelsk.mts.ru pdshalar@arkhangelsk.mts.ru s.gurkin@smolensk.comstar aygolds1@mts.ru sysadm@netroad.ru sysadm@uljanovsk.comstar lir@comstar.ru camelot@comstar.ru noc@comstar.ru abuse@comstar.ru rmaster@comstar.ru support@comstar.ru laptev@comstar.ru 
+
+21. 95.109.128.0/17 
+noc@umc.com.ua noc@vodafone.ua abuse@mts.com.ua noc@mts.com.ua jar@umc.com.ua noc@tsua.net 
+
+22. 128.140.0.0/17 
+ripe-mntner@hetzner.de info@hetzner.de ripe@hetzner.de abuse@hetzner.de peering@hetzner.de martin.fritzsche@hetzner.de stephan.konvickova@hetzner.de sebastian.krannich@hetzner.de tobias.frenz@hetzner.de 
+
+23. 139.64.0.0/17 
+araiyes@stc.com.sa registry@stc.com.sa info@irnetco.net suliman.alzain@saudi.net.sa registry@saudi.net.sa abuse@saudi.net.sa dosary@saudi.net.sa 
+
+24. 143.92.128.0/17 
+araiyes@stc.com.sa registry@stc.com.sa info@irnetco.net suliman.alzain@saudi.net.sa registry@saudi.net.sa abuse@saudi.net.sa dosary@saudi.net.sa 
+
+25. 144.86.0.0/17 
+araiyes@stc.com.sa registry@stc.com.sa info@irnetco.net suliman.alzain@saudi.net.sa registry@saudi.net.sa abuse@saudi.net.sa dosary@saudi.net.sa 
+
+26. 151.173.128.0/17 
+araiyes@stc.com.sa registry@stc.com.sa info@irnetco.net suliman.alzain@saudi.net.sa registry@saudi.net.sa abuse@saudi.net.sa dosary@saudi.net.sa 
+
+27. 159.146.128.0/17 
+ripe@lifecell.com.ua 
+
+28. 164.93.128.0/17 
+as.uk.abuse@sungardas.com mike.simkins@sungardas.com as.uk.servicedesk@sungardas.com mike.simkins@sungard.com as.uk.peering@sungardas.com as.uk.nocsupport@sungardas.com denis@ripe.net 
+
+29. 169.148.0.0/17 
+araiyes@stc.com.sa registry@stc.com.sa info@irnetco.net suliman.alzain@saudi.net.sa registry@saudi.net.sa abuse@saudi.net.sa dosary@saudi.net.sa 
+
+30. 188.139.0.0/17 
+noc@arabcircle.net.sa adel@arabcircle.net.sa khalid@arabcircle.net.sa 
+
+31. 194.222.128.0/17 
+ipabuse@vodafone.co.uk ipadmin@vodafone.com as-guardian@demon.net hostmaster@demon.net 
+
+32. 195.232.0.0/17 
+registrar@eu.uu.net ipam@emea.verizon.com jpinnow@ipeng.wcom.net phohlbein@csi.compuserve.com abuse@wcom.net hostmaster@wcom.net ABUSE@UU.NET SECURITY@UU.NET ip@se.verizonbusiness.com peering@wcom.net noc-ip@wcom.net abuse@uu.net christopher.miller@verizonbusiness.com dial-tac@de.uu.net ssm-dns-admins@eu.uu.net ip@se.mci.com 
+
+33. 212.211.0.0/17 
+registrar@eu.uu.net ipam@emea.verizon.com jpinnow@ipeng.wcom.net phohlbein@csi.compuserve.com abuse@wcom.net hostmaster@wcom.net ABUSE@UU.NET SECURITY@UU.NET ip@se.verizonbusiness.com peering@wcom.net noc-ip@wcom.net abuse@uu.net christopher.miller@verizonbusiness.com dial-tac@de.uu.net ssm-dns-admins@eu.uu.net ip@se.mci.com 
+
+34. 213.90.128.0/17 
+Iana-admin@euronext.com iana-admin@euronext.com llejeune@bourse-connect.com abuse@fr.colt.net pjousse@nyx.com xpontacq@bourse-connect.com jcasol@bourse-connect.com ripe-notify@bourse-connect.com ripe-notify@aems.net Corinne.Fornara@aems.net 
+
+35. 51.84.0.0/17 
+peter.wightman@dwp.gsi.gov.uk 
+
+36. 51.236.0.0/17 
+peter.wightman@dwp.gsi.gov.uk 
+
+37. 62.95.128.0/17 
+ip-registry@arcor.net ip-registry@vodafone.com DanubiusNOC-DE-FO-FIXED_ro@vodafone.com abuse@arcor-ip.de peering@adm.arcor.net postmaster@vodafone-ip.de registrar@arcor.net stephan.braehler@vodafone.com frank.bauer@vodafone.com frank.wegener@arcor.net holger.zuleger@vodafone.com joerg.schell@vodafone.com klaus.wolf@arcor.net marco@low-riders.de michael.weidemann@vodafone.com roland.haus@arcor.net sabine.mahlein@arcor.net tobias.klink@arcor.net abuse@vodafone.com peering.3209@vodafone.com 
+
+38. 81.11.0.0/17 
+ip-registry@arcor.net ip-registry@vodafone.com DanubiusNOC-DE-FO-FIXED_ro@vodafone.com abuse@arcor-ip.de peering@adm.arcor.net postmaster@vodafone-ip.de registrar@arcor.net stephan.braehler@vodafone.com frank.bauer@vodafone.com frank.wegener@arcor.net holger.zuleger@vodafone.com joerg.schell@vodafone.com klaus.wolf@arcor.net marco@low-riders.de michael.weidemann@vodafone.com roland.haus@arcor.net sabine.mahlein@arcor.net tobias.klink@arcor.net abuse@vodafone.com peering.3209@vodafone.com 
+
+—еть 39. 131.117.0.0/17 
+€вл€етс€ подсетью более крупной сети
+
+—еть 40. 137.191.0.0/17 
+€вл€етс€ подсетью более крупной сети
+
+41. 139.45.0.0/17 
+abuse@energimidt.dk noc@eniig.dk ip@energimidt.dk ip@eniig.dk sja@eniig.dk abuse@eniig.dk pju@tmnetworks.dk 
+
+—еть 42. 139.178.128.0/17 
+€вл€етс€ подсетью более крупной сети
+
+43. 145.250.0.0/17 
+admin@bs.ch fdzideinkauf@bs.ch 
+
+—еть 44. 158.90.0.0/17 
+€вл€етс€ подсетью более крупной сети
+
+45. 158.178.0.0/17 
+droisman@us.ibm.com ipadmin@softlayer.com 
+
+46. 171.25.0.0/17 
+abuse@bluewin.ch engineering@ip-plus.net ip.management@swisscom.com hostmaster@entris-banking.ch engineering-dns.connectivity-its@swisscom.com abuse@ip-plus.net admin.dns@swisscom.com chapuis@ip-plus.net martin.wittmann@swisscom.com noc@swissdigicert.ch oppermann@networx.ch engineering@ipplus.net ipmgmt.res@swisscom.com mkuhn@dosim.ch noc@ip-plus.net IP-Plus.Peering@swisscom.com denis@ripe.net fankhauser@ip-plus.net angel@ip-plus.net ritter@ip-plus.net boogman@ip-plus.net admin@boogman.ch moroni@ip-plus.net dodeller@ip-plus.net 
+
+47. 193.7.0.0/17 
+bpolp.ref52.nm@polizei.bund.de juergen.prass@polizei.bund.de bpolp.ref52@polizei.bund.de 
+
+48. 193.243.0.0/17 
+ipadmin@vodafone.com ncipsupport@vodafone.com ipabuse@vodafone.co.uk ipadmin@eu.cw.net ripe-adm@energis.com abuse@vodafone.com peter.byrne@cwcom.co.uk ipadmin@de.cw.com peeringsupport@vodafone.com transportukipcore@vodafone.com peeringrequest@vodafone.com peering-support@cw.net peering-request@cw.net ipv6@cw.net ipmulticast@cw.net ipadmin@cw.net 
+

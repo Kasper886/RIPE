@@ -1,0 +1,697 @@
+0. 5.1.40.0/21 
+IP.Ops@oriaka.com nikos.kacoullis@oriaka.com net.ops@oriaka.com net-abuse@oriaka.com 
+1. 5.44.248.0/21 
+vivaciti@vivaciti.com hostmaster@vivaciti.net abuse@vivaciti.net 
+2. 5.53.120.0/21 
+noc@selectel.ru malevanov@selectel.ru sizovkirill@selectel.ru 
+3. 5.57.208.0/21 
+enduser-contract@ripe.net shirzad238@gmail.com mazyar2004@yahoo.com 
+4. 5.61.224.0/21 
+registry@dfinet.net noc@dfi.ch abuse@dfi.ch noc@dfinet.net peering@dfinet.net abuse@dfinet.net 
+5. 5.134.16.0/21 
+dodoj@glowfish.de info@glowfish.de 
+6. 5.194.240.0/21 
+admin@nic.ae lir@nic.ae abuse@emirates.net.ae egn@emix.net.ae moyahiya@etisalat.ae 
+7. 5.249.168.0/21 
+support.firewall.ch@atos.net daniel.kronauer@aots.net 
+8. 23.111.0.0/21 
+bk@servers.com abuse@servers.com abuse@servers.ru 
+9. 31.31.32.0/21 
+abuse@fiberring.com ripe@fiberring.com info@fiberring.com abuse@sorcer.nl ripe@network.leaseweb.com ripe@leaseweb.com 
+10. 31.47.208.0/21 
+gabi@alsysnet.eu alsysnet@alsysnet.eu gabi@alsysdata.net ness@alsys.ro hostmaster@rnc.ro domainadmin@alsysdata.net denis@ripe.net 
+11. 31.131.8.0/21 
+hostmaster@gvm.ro office@gvm.ro abuse@gvm.ro 
+12. 31.193.112.0/21 
+m_rahimi@tic.ir l_meybodi@tic.ir 
+13. 31.220.128.0/21 
+gabi@alsysnet.eu alsysnet@alsysnet.eu gabi@alsysdata.net ness@alsys.ro hostmaster@rnc.ro domainadmin@alsysdata.net denis@ripe.net 
+14. 37.0.8.0/21 
+info@yourname.nl mvo@yourname.nl 
+15. 37.16.72.0/21 
+j@internetmemory.net nathalie.pischon@internetmemory.net sorin.danulescu@internetmemory.net accounts@internetmemory.net abbass.marouni@internetmemory.net 
+16. 37.32.104.0/21 
+registry@irideos.it abuse@irideos.it paolo.livio@irideos.it noc@bigtlc.it ripe@bigtlc.it luciano.denti@bigtlc.it registry@infracom.it gaetano.mercandalli@kpnqwest.com marcello.vago@kpnqwest.com registry@mclink.eu noc@kpnqwest.it abuse@kpnqwest.it r.fusca@mclink.it f.costagliola@mclink.it v.rosso@mclink.it laura.capodicasa@bigtlc.eu diego.dolimpio@irideos.it gabriele.serafini@irideos.it marco.lorenzon@irideos.it sara.mansoldo@irideos.it vittorio.rosso@irideos.it andrea.casini@irideos.it alessandro.auzzi@infracom.it alessandro.romoli@infracom.it marco.checcacci@infracom.it patrizia.arcasedda@infracom.it Stefano.pugliesi@infracom.it 
+17. 37.46.48.0/21 
+a.gurbo@severen.ru abuse@severen.net pd@severen.net noc@severen.net zakharov@severen.net gurbo@golas.ru s.vinogradov@severen.ru s.topalsky@severen.ru v.rozenberg@severen.ru skull@severen.com p.adamovskiy@severen.net korolyuk@severen.net 
+18. 37.49.144.0/21 
+ripe@farahoosh.ir 
+19. 37.123.232.0/21 
+hostmaster@tigron.net info@tigron.be noc@tigron.net peering@tigron.net abuse@tigron.net support@tigron.be ripe@bd11.be abuse@bd11.be 
+20. 37.131.176.0/21 
+info@cc-net.ag 
+21. 37.228.72.0/21 
+ripe-notify@telegraaf.net hostmaster@telegraaf.net abuse@telegraaf.net ripe@hyves.nl niels@telegraafnet.nl peering@telegraaf.net 
+22. 37.251.192.0/21 
+mugur@webclassit.com comercial@webclassit.com mugur@xservers.ro 
+23. 46.16.32.0/21 
+afnet@anchorfree.com eugene@anchorfree.com 
+24. 46.16.64.0/21 
+noc@gldn.net noc@sovintel.ru CustomerCare@beeline.ru Internet@b2b.beeline.ru abuse-b2b@beeline.ru noc@bca.ru noc@spb.gldn.net ncc@spb.gldn.net ncc@sovintel.ru lir-adm@foratec.net apkiselev@beeline.ru ivanikov@sovintel.ru noc@ctk.ru a.novikov@ctk.ru p.krasotin@ctk.ru SGershovich@mur.beeline.ru noc@spb.beeline.ru registry@eltel.net noc@eltel.net abuse@eltel.net am@wbt.ru shultz@wbt.ru ip-adm@wbt.ru noc@ranetka.ru i.semenyuk@corp.mail.ru noc@ekb.beeline.ru alexeev_am@office.beeline.ru a.alexeev@tatintel.com azat@khayaliev.ru AKhayaliev@kzn.beeline.ru noc@beeline.ru noc@mplik.ru tonik@ur.ru ant@ur.ru admins@tyumen.ru bad@ud9.ru NCC@atelperm.ru KBukheruk@sch.beeline.ru VKochanov@sch.beeline.ru s.egorov@chuvashia.ru noc@chuvashia.ru ripe@bryansktel.ru ripe@magistraly.ru ripe@ural-net.ru lioncub@ural-net.ru dv@dv.ru lyadovoy@sovintel.ru sergr@sovintel.ru astadnikov@gldn.net astadnikov@beeline.ru IIvannikov@beeline.ru kisel@sovam.com zherebtsov_rg@gldn.net bsupport@beeline.ru asuslova@beeline.ru echipura@beeline.ru ymasterova@beeline.ru iabrashina@beeline.ru dmenzulskiy@beeline.ru abuse@b2b.beeline.ru ovedina@spb.beeline.ru sloginov@spb.beeline.ru 
+25. 46.17.104.0/21 
+bitbucket@ripe.net hostmaster@ripe.net abuse@ripe.net ops@ripe.net 
+26. 46.17.152.0/21 
+abilene@abilene.it ipadmin@abilene.it 
+27. 46.17.176.0/21 
+sysadmins@multicom.co.uk noc@multicom.co.uk 
+28. 46.18.232.0/21 
+network@skywebtv.it clara.quarta@skywebtv.it 
+29. 46.19.240.0/21 
+ipadmin@blackberry.com abuse@blackberry.com bbdna@blackberry.com ipadmin@rim.com 
+30. 46.183.88.0/21 
+adi@cav.co.il system@cav.co.il wan@cav.co.il system@cavsystems.com 
+31. 46.183.144.0/21 
+network@serverclub.com abuse@serverclub.com finance@serverclub.com ra@serverclub.com 
+32. 46.183.152.0/21 
+ripe@eu.equinix.com ServiceDesk.DE@eu.equinix.com andreas.fleck@eu.equinix.com andreas.pfeifer@eu.equinix.com ripe@eu.equinix.om nocuk@ixeurope.com Daniel.Eichenauer@eu.equinix.com nse@eu.equinix.com 
+33. 46.183.200.0/21 
+Stephen.Degler@twosigma.com noc@twosigma.com stephen.degler@twosigma.com 
+34. 46.183.224.0/21 
+ripe@ip-star.net abuse@as30781.net engineering@as30781.net abuse@ip-star.net 
+35. 46.226.120.0/21 
+tonys@netshield.co.uk info@netshield.net 
+36. 46.226.152.0/21 
+registry@videoplaza.com operations@videoplaza.com abuse@videoplaza.com dante@videoplaza.com toby@ooyala.com 
+37. 46.226.208.0/21 
+yunsasha@megaline.kg vtsoy@mega.kg office@mega.kg yunsasha@mega.kg 
+38. 46.230.160.0/21 
+pmf@ice.net 
+Сеть 39. 46.230.168.0/21 
+является подсетью более крупной сети
+40. 46.231.128.0/21 
+noc@redhat.com idonev@redhat.com noc-ripe@enovance.com n.marchal@enovance.com ripe@enovance.com 
+41. 46.232.168.0/21 
+tb@107082.es info@107082.es 
+42. 46.245.240.0/21 
+entadmineurope@ibahn.com 
+43. 46.254.168.0/21 
+phil@hitrail.com dirk.wauters@infrabel.be eruiz@hitrail.com 
+44. 46.254.192.0/21 
+mohamud.firin@uk.telehouse.net hostmaster@uk.telehouse.net abuse@uk.telehouse.net solutions@uk.telehouse.net 
+45. 46.255.0.0/21 
+roland.hamann@pico.global 
+46. 46.255.184.0/21 
+noc@bonanetto.net cto@bonanetto.net 
+47. 62.76.48.0/21 
+as@indata.org.ru dk@indata.org.ru 
+48. 77.72.152.0/21 
+d.reherman@rijnmondnet.org m.mulder@rijnmondnet.nl 
+49. 77.81.56.0/21 
+e.kalantarov@delta-telecom.net atesh@delta-telecom.net admin@az-ix.net noc@delta-telecom.net noc@az-ix.net 
+50. 77.81.248.0/21 
+e.kalantarov@delta-telecom.net atesh@delta-telecom.net admin@az-ix.net noc@delta-telecom.net noc@az-ix.net 
+51. 77.95.24.0/21 
+ripe-admin@fusionstorm.com service@synoptek.com aaron@fusionstorm.com 
+52. 77.223.192.0/21 
+lir@mnitelecom.pl lir@hyperion.net.pl ripe@hyperion.net.pl adamk@hyperion.pl tomaszd@hyperion.pl r.szymanski@mnicu.pl m.tur@mnitelecom.pl mtur@mni.pl bok@profiline.pl bgp@profiline.pl abuse@profiline.pl p.sulkowski@profiline.pl hostmaster@profiline.pl lir@hyperion.pl theryll@telprojekt.pl p.dechamps@lycee-moliere.org ripe-notify@lemmers.be abuse@dnet.pl 
+53. 77.246.208.0/21 
+support@atlantis.bg office@atlantis.bg kalin@atlantis.bg abuse@evolink.com tech@evolink.com 
+54. 77.246.240.0/21 
+e.shpak@mail.ru abuse@energytel.ru info@energytel.ru support@energytel.ru tech@umostel.ru roa2006@yandex.ru master@hq.sectorb.msk.ru vsavkin@umos.ru 
+55. 78.24.56.0/21 
+lir@megafon.ru lir@MegaFon.RU info@megafon.ru abuse-mailbox@megafon.ru gnocwest_tr@megafon.ru gnoceast_backbone@megafon.ru abuse@ti.ru ripe@ti.ru moscow-lir@megafon.ru abuse@c-line.ru alexey.bekshaev@MegaFon.ru ed.shashin@c-line.ru noc@c-line.ru info@c-line.ru OYurlov@MegaFon.RU Sergey.L.Kuzmin@megafon.ru Sergey.Sokolov@megafon.ru nat@dtd.peterstar.com s.butenin@satcomline.ru noc@portal.ru g.golomidov@satcomline.ru hostmaster@peterstar.ru noc@peterstar.net alexander.simakin@Megafon.ru simakin@dtd.peterstar.com ip-reg@ripn.net sveta@comcor-tv.ru ip-dbm-request@ripn.net rtip-reg@ripn.net ip-box@ripn.net oyurlov@megafon.ru hvg@volgodonsk.ru vladimir.trenikhin@megafonural.ru Alexey.Zamorin@megafonural.ru raul.sharipov@megafon.ru SIB-IT_Network@MegaFon.ru dns-admin@megafon.ru noc@metrocom.ru ncc@tcnet.ru kvk-netadm@megafon.ru svn@chmr.ru bashkin@inar.ru eugene@inar.ru seal@nordlink.ru seal@inar.ru info@aspol.ru iptech@aspol.ru noc@synterra.ru abuse@synterra.ru peering@synterra.ru gnoceast_backbone@MegaFon.ru GNOC_KeySupport_West@MegaFon.ru peering@megafon.ru cnt-noc@megafon.ru Sergey.Sokolov@SonicDuo.com zay@tkural.ru daneko_me@tkural.ru vlg-smena_it@MegaFon.ru artem.akifyev@megafon.ru egor@szkti.ru noc@szkti.ru noc@synterra-ug.ru vladimir.andrjushhenko@megafonkavkaz.ru abuse@yotateam.ru noc@yotateam.ru lir@megagon.ru alexander.zabolev@MegaFon.ru 
+56. 78.138.96.0/21 
+ripe@heg.com noc-emea@godaddy.com ripe@godaddy.com noc@plusserver.com abuse@plusserver.com backoffice@plusserver.com andreas.kippnick@heg.com m.aygan@enoit.de noc@hosteurope.de info@netdepot.eu ripe@synergetic.de hostmaster@synserver.de ripe-updates@webfusion.com ripe@webfusion.com abuse@webfusion.com abuse@hosteurope.de peering@hosteurope.de mass-ripe@heg.com ripe@heartinternet.co.uk admin_red@redcoruna.com ripe@netsumo.com 
+Сеть 57. 78.159.200.0/21 
+является подсетью более крупной сети
+58. 79.98.248.0/21 
+noc@centelcom.ru olga.a.orlova@rt.ru ripe@rt.ru vyacheslav.shelukhin@rt.ru yurov@mo.center.rt.ru abuse@rt.ru noc-ip@rt.ru peering@rt.ru geo@ns.kuban.ru Nikita.Semencha@south.rt.ru noc@vt.ru mav@samtel.ru yu.nazarov@samara.vt.ru lir@ncnet.ru noc@ncnet.ru abuse@moscow.rt.ru PBuzhinsky@tvoe.tv AKalmykov@tvoe.tv ikaras@tvoe.tv PetrBuz@tvoe.tv ip-reg@ncc.primorye.ru lsm@tts.magadan.su pre@tts.magadan.su dnikiforov@nsk.tvoe.tv noc@nchelny.ru abuse@chelni.net noc@chelni.net sergey.guznov@south.rt.ru noc@samtel.ru abuse@samtel.ru postmaster@samtel.ru admin@telenet.ru noc@telenet.ru i.lebedev@telenet.ru tsr@telenet.ru noc@vologda.ru e.platonova@vologda.ru leon@vologda.ru ipre@mfist.usi.ru kasymov-yus@ural.rt.ru asd@ab.ru noc@sibnet.ru noc@sinor.ru suslov@sibirtelecom.ru si_valynkin@nsk.sibirtelecom.ru ip-reg@ripn.net andrew@elkatel.ru IronWhale@gmail.com noc@elkatel.ru noc@sakhalin.ru lir@sakhalin.ru abuse@sakhalin.ru postmaster@sakhalin.ru noc@rosnet.ru abuse@rosnet.ru i.petrov@rosnet.ru serg@rosnet.ru cnt@mail.primorye.ru gav@prim.dsv.ru anr@vladivostok.ru lir@dtd.ptn.ru abuse@dtd.ptn.ru ciscoykt@yandex.ru alex_cooler@sakha.ru vad@tomsknet.ru evy@ripn.net ip-dbm-request@ripn.net ip-box@ripn.net rtip-reg@ripn.net o.goldobin@rosnet.ru vps@sibmail.ru vps@sibnet.ru noc@sutc.ru abuse@sutc.ru vg@mari-el.ru ip-reg@noc.kamchatka.ru abuse@noc.kamchatka.ru ip@noc.kamchatka.ru peering@noc.kamchatka.ru postmaster@noc.kamchatka.ru support@mail.kamchatka.ru noc@noc.kamchatka.ru lir@noc.kamchatka.ru ras@dagsvyaz.ru adm@dinet.ru avb@san.ru den@amur.dsv.ru dvi@amur.dsv.ru admin@nms.amur.ru a.popkov@en-ter.ru osa@FreeBSD.org maestro@datacom.natm.ru noc@kht.ru red@kht.ru aleksandr.i.ivanov@south.rt.ru a.perov@sura.ru mbilkevich@kirov.ru mike@moris.ru mike@moris.com noc@tversvyaz.ru vladv@tvcom.ru gukkels@gmail.com noc@telecet.com abuse@telecet.com ripe@telenet.ru dmvy@telenet.ru noc@rosnet.net v.melnikov@rtlabs.ru kiselev@centelcom.ru kiselev@spdop.ru nic@lipetsk.ru ripe@tvoe.tv abuse@primorye.ru g-adv@mail.ru noc@lsi.ru abuse@lsi.ru stv.monitoring@south.rt.ru smelik-av@ural.rt.ru noc@gd.usi.ru mironov@ineco.ryazan.su noc@ineco.ryazan.su ermak@ineco.ryazan.su kurych@mail.esoo.ru kurych@ineco.ryazan.su asu@tmb.ru ms@tmb.ru kom@tmb.ru vaa@yartelecom.ru noc@tomsknet.ru Valery.Kalinin@Megafon.ru Valeriy.Kalinin@Megafon.ru hunter@keeper.natm.ru i.korolev@baltnet.ru a.yurushev@baltnet.ru noc@vsi.ru abuse@vsi.ru avs@rtcomm-yug.ru cae@donpac.ru ipadm@donpac.ru eagle@donpac.ru wert@donpac.ru petroff@sura.ru denis.mishin@nw.rt.ru Sergey.N.Ermakov@nw.rt.ru ncc@novgorod.net registry@eltel.net vvd@ellink.ru eyv@ellink.ru a.yu.orlov@volga.rt.ru stepanov@mail.esoo.ru nikonov@esoo.ru a.balashov@volga.rt.ru a.objorin@volga.rt.ru noc@atricom.ru baas@atricom.ru burkov@atricom.ru irina@atriplus.ru alec@simix.ru noc@volga.rt.ru cherry@kes.kuban.ru Vitaliy_Petrenko@center.rt.ru Andrey_Nesterov@center.rt.ru noc@ttknet.ru abuse@ttknet.ru lir@ttknet.ru registry@atnet.ru noc-adm@atnet.ru noc@surnet.ru abuse@surnet.ru kalina@avtlg.ru ainf@avtlg.ru noc@elcom.ru ip-reg@noc.brsi.ru abuse@noc.brsi.ru sysadmin@moris.ru kostina-il@ural.rt.ru i.v.nikolaenko@center.rt.ru smena@astranet.ru mikhail.filimonov@south.rt.ru alex@astranet.ru rusin@astranet.ru slava@kraslan.ru admin@kursknet.ru ig@kursknet.ru kokorin-syu@mfist.usi.ru operator@gorny.ru noc@gorny.ru lir@ncc.sibirtelecom.ru manzarov@buryat.sibirtelecom.ru andrey.belashov@center.rt.ru noc@orel.ru D.Tarasov@center.rt.ru dns@turbo.nsk.su max@turbo.nsk.su sobolev@khakasnet.ru ab@soes.su rsl@radnet.ru ont@radnet.ru artur.v.sardlishvili@south.rt.ru arsen.a.guchakov@south.rt.ru uri@kbrnet.ru person@dagsvyaz.ru Sergey_Istomin@centertelecom.ru unequal@gmail.com a.malin@mail.stcompany.ru PanovK@kes.ru hostmaster@krasnet.ru noc@mari-el.ru tech-noc@en-ter.ru ip-reg@urtc.ru den@urtc.ru kia@urtc.ru pbd@urtc.ru noc@rosmail.com noc@irtel.ru vek@irtel.ru noc@mo.center.rt.ru gummy@lipetsk.ru zinov@omskelecom.ru adm@omskelecom.ru noc@tula.net inoyat_kayumov@center.rt.ru xatxu1973@yandex.ru noc@kaluga.ru abuse@kaluga.ru monitoring@kaluga.ru dnsmaster@kaluga.ru hosting@kaluga.ru support@kaluga.ru 
+59. 79.99.152.0/21 
+fi.noc@telecity.com Servicedesk.FI@eu.equinix.com ripe@eu.equinix.com antti.oksa@eu.equinix.com abuse@eu.equinix.com hostmaster@academica.fi 
+60. 79.99.248.0/21 
+mpls@silknet.com belmasova@gmail.com lir@silknet.com zbabutsidze@geocell.ge tabashidze@geocell.ge denis@ripe.net art@utg.ge 
+61. 79.139.56.0/21 
+lir@mnitelecom.pl lir@hyperion.net.pl ripe@hyperion.net.pl adamk@hyperion.pl tomaszd@hyperion.pl r.szymanski@mnicu.pl m.tur@mnitelecom.pl mtur@mni.pl bok@profiline.pl bgp@profiline.pl abuse@profiline.pl p.sulkowski@profiline.pl hostmaster@profiline.pl lir@hyperion.pl theryll@telprojekt.pl p.dechamps@lycee-moliere.org ripe-notify@lemmers.be abuse@dnet.pl 
+62. 79.139.72.0/21 
+lir@mnitelecom.pl lir@hyperion.net.pl ripe@hyperion.net.pl adamk@hyperion.pl tomaszd@hyperion.pl r.szymanski@mnicu.pl m.tur@mnitelecom.pl mtur@mni.pl bok@profiline.pl bgp@profiline.pl abuse@profiline.pl p.sulkowski@profiline.pl hostmaster@profiline.pl lir@hyperion.pl theryll@telprojekt.pl p.dechamps@lycee-moliere.org ripe-notify@lemmers.be abuse@dnet.pl 
+63. 79.139.88.0/21 
+lir@mnitelecom.pl lir@hyperion.net.pl ripe@hyperion.net.pl adamk@hyperion.pl tomaszd@hyperion.pl r.szymanski@mnicu.pl m.tur@mnitelecom.pl mtur@mni.pl bok@profiline.pl bgp@profiline.pl abuse@profiline.pl p.sulkowski@profiline.pl hostmaster@profiline.pl lir@hyperion.pl theryll@telprojekt.pl p.dechamps@lycee-moliere.org ripe-notify@lemmers.be abuse@dnet.pl 
+64. 79.139.120.0/21 
+lir@mnitelecom.pl lir@hyperion.net.pl ripe@hyperion.net.pl adamk@hyperion.pl tomaszd@hyperion.pl r.szymanski@mnicu.pl m.tur@mnitelecom.pl mtur@mni.pl bok@profiline.pl bgp@profiline.pl abuse@profiline.pl p.sulkowski@profiline.pl hostmaster@profiline.pl lir@hyperion.pl theryll@telprojekt.pl p.dechamps@lycee-moliere.org ripe-notify@lemmers.be abuse@dnet.pl 
+65. 79.170.0.0/21 
+noc@satnoc.net gafoor@4ntel.com navas@iccsat.com leu@uniplex.de 
+66. 79.170.120.0/21 
+lir@mnitelecom.pl lir@hyperion.net.pl ripe@hyperion.net.pl adamk@hyperion.pl tomaszd@hyperion.pl r.szymanski@mnicu.pl m.tur@mnitelecom.pl mtur@mni.pl bok@profiline.pl bgp@profiline.pl abuse@profiline.pl p.sulkowski@profiline.pl hostmaster@profiline.pl lir@hyperion.pl theryll@telprojekt.pl p.dechamps@lycee-moliere.org ripe-notify@lemmers.be abuse@dnet.pl 
+67. 79.170.232.0/21 
+ripe@lws-hosting.com serveur@lws.fr ripepublic@lws-hosting.com 
+68. 79.174.176.0/21 
+otuu@globaltour.no otuu1409@gmail.com 
+69. 80.70.120.0/21 
+wmsalem@gmail.com weam.salem@syriantelecom.sy exp-dir@net.sy 
+70. 80.73.208.0/21 
+justin.mcphee@sure.co.fk 
+71. 80.83.80.0/21 
+ripe@eitss.com r@walder.se 
+72. 80.88.144.0/21 
+cph-noc@emperion.net ulk@mobilepeople.com kmw@emperion.net srl@emperion.net noc@emperion.net olk@emperion.net jej@emperion.net abuse@emperion.net 
+73. 80.208.240.0/21 
+timo.hopponen@fne.fi 
+74. 80.249.144.0/21 
+noc@selectel.ru malevanov@selectel.ru sizovkirill@selectel.ru 
+75. 80.249.208.0/21 
+noc@ams-ix.net abuse@ams-ix.net 
+76. 80.250.88.0/21 
+noc@obit.ru hostmaster@obit.ru abuse@obit.ru dg@obit.ru 123@obit.ru office@altertech-eu.net 
+77. 81.89.88.0/21 
+arnold.nipper@de-cix.net support@de-cix.net abuse@de-cix.net ndceng-rt@de-cix.net notify@de-cix.net rnd-team@de-cix.net notify-6695@de-cix.net 
+78. 83.136.40.0/21 
+abuse@three.ie abuse@three.co.uk eddy.young2@three.co.uk steven.blount@three.co.uk jason.kabengele@three.co.uk ripeadmin@three.ie ejaz.ahmad@ericsson.com ripeadmin@three.co.uk ripe@o2.com 
+79. 83.138.24.0/21 
+noc@fxcorporate.com 
+80. 83.138.32.0/21 
+ipaddress@ja.net jjc@nosc.ja.net joe@nosc.ja.net j.seymour@ja.net john@NOSC.JA.NET rhe@nosc.ja.net robert@nosc.ja.net operations@ja.net jips-nosc@nosc.ja.net damien.shaw@ja.net baoyu.wang@ja.net jips-nosc@noc.ulcc.ac.uk duncan.rogerson@ja.net anthony.ryan@ja.net michael.robson@ja.net rob.clarke@ja.net tim.robinson@ja.net d.shaw@ukerna.ac.uk 
+81. 83.217.16.0/21 
+noc@globus-telecom.com abuse@globus-telecom.com postmaster@globus-telecom.com support@globus-telecom.com localir@globus-telecom.com ds@globus-telecom.com a.pojidaev@globus-telecom.com 
+82. 84.19.104.0/21 
+ipam@virginmedia.co.uk postmaster@virginmedia.com hostmaster@virginmedia.net chris.stallwood@telewest.co.uk mike@cableinet.net steve@blueyonder.co.uk sb@cableinet.co.uk steve.layzell@blueyonder.co.uk ripe@telewest.net planning.informationmanagement@virginmedia.co.uk planning.information@virginmedia.co.uk hostmaster@virginmedia.co.uk peering@virginmedia.co.uk 
+83. 84.21.208.0/21 
+ripe@itdnet.net ripe@cooolbox.bg abuse@cooolbox.bg noc@botevgrad.com abuse@botevgrad.com ivan@botevgrad.com 
+84. 84.39.184.0/21 
+INFO@INFOPORTO.IT direzione@infoporto.it massimo.terenziani@infoporto.it 
+85. 84.246.80.0/21 
+julian.ramsey@learndirect.com liam.nolan@learndirect.com SDTechnicalOperations@learndirect.com ictcontracts@learndirect.com 
+86. 84.246.96.0/21 
+office@srce.hr stjepko.ivezic@srce.hr ripe@srce.hr 
+87. 84.246.104.0/21 
+lir.contact@azuria.net noc@azuria.net noc@multi-visp.net abuse@azuria.net arthur@azuria.fr 
+88. 84.247.8.0/21 
+ripe_notify@transip.net support@transip.nl abuse@transip.nl ripe@transip.net 
+89. 85.118.136.0/21 
+arte-dom@mail.ru victor@slan.ru an@slan.ru noc@linky.ru noc@slan.ru ripe@l2v.org wins@b2b-telecom.ru abuse@linky.ru 
+90. 85.118.144.0/21 
+comunication.ripe@mdsnet.it domain@mail.mdsnet.it hostmaster@mdsnet.it 
+91. 85.118.160.0/21 
+ripe@ghostnet.de noc@ghostnet.de abuse@ghostnet.de tk@ghostnet.de hostmaster@ghostnet.de peering@ghostnet.de .........................noc@ghostnet.de info@kleyrex.net peering@iag.eu sm@ghostnet.de ripereq@ghostnet.de abuse@aixit.com schellenberg@inet.de ak@ghostnet.de peering@isp-solution.de noc@isp-solution.de abuse@isp-solution.de info@isp-solution.de ripe@newcolo.de ripe@kgtnewmedia.de abuse@kgtnewmedia.de peering@as48835.net ml@kneip.me ak@kleyrex.net ak@newcolo.de armin@kneip.me sg@ghostnet.de ip@ghostnet.de sb@ghostnet.de ak@feronet.com ak@pcs-consulting.de 
+92. 85.119.112.0/21 
+infrastructureteam@chessict.co.uk assist@pinnacleplc.co.uk ripe@pinnacleplc.co.uk networkoperations@chesstelecom.com network@pinnacleplc.co.uk systems@abel.net.uk abuse@abel.net.uk 
+93. 85.158.80.0/21 
+hostmaster@assyrus.it abuse@assyrus.it 
+94. 85.159.112.0/21 
+ripe@het.net ripe@dth.net peering@handelsweg8.nl noc@handelsweg8.nl abuse@handelsweg8.nl 
+95. 85.159.136.0/21 
+notify@noc.fcpl.com techops@fcpl.com ben@noc.fcpl.com dan@noc.fcpl.com admin@noc.fcpl.com tech@noc.fcpl.com dan@fcpl.com ben.stoneham@fcpl.com 
+96. 85.184.200.0/21 
+ripe@wimanx.com ripedb@wimanx.com abuse@wimanx.com joe.hughes@wimanx.com noc@wimanx.com peering@wimanx.com 
+97. 85.190.176.0/21 
+registry@envia-tel.net abuse@envia-tel.net noc@envia-tel.net 
+98. 86.104.168.0/21 
+abuse@orange.es scs-ipnetworks@list2.orange.com aluis.gonzalez@orange.com javier.castillo@xbyorange.com abuse@xbyorange.com aluis.gonzalez@orange-ftgroup.com noc.es@orange-ftgroup.com ripe_tech@uni2.es adminripe.es@orange-ftgroup.com victor.rodriguezs@orange-ftgroup.com gorka.sanchez@orange-ftgroup.com 
+99. 86.105.96.0/21 
+contact@1h1.net 
+100. 86.107.112.0/21 
+contact@1h1.net 
+101. 86.109.24.0/21 
+sysadmin@alphamegahosting.com jeroen@alphamega.nl 
+102. 87.117.120.0/21 
+ripe@litecom.ch noc@litecom.ch abuse@litecom.ch thomas.graf@litecom.ch 
+103. 87.120.168.0/21 
+saleh.jeaidan@stcsc.sa 
+104. 87.121.240.0/21 
+saleh.jeaidan@stcsc.sa 
+105. 87.232.136.0/21 
+leo.lundy@imaginegroup.ie dermot@irishbroadband.ie registry@imagine.ie barry@irishbroadband.ie michael_t@irishbroadband.ie abuse@irishbroadband.ie andy@technolabs.co.uk ripe@technolabs.co.uk noc@imagine.ie barry@opensolutions.ie peering@irishbroadband.ie sales@irishbroadband.ie netops@irishbroadband.ie ripe@imaginegroup.ie abuse@imaginegroup.ie cm.ripe@cwi.ie peering@imagine.ie 
+106. 87.236.160.0/21 
+ripe@anteacom.it info@anteacom.it 
+107. 87.237.128.0/21 
+nuriev@rusinfcoom.ru noc@rusinfcoom.ru inuriev@multinet.net 
+108. 87.237.248.0/21 
+noc@stg-interactive.com contact-adm@stg-interactive.com contact-tech@frogans.com contact-tech@stg-interactive.com 
+109. 87.252.112.0/21 
+jamie.collier@ipc.com alan.eng@ipc.com clinton.bentley@ipc.com 
+110. 87.253.176.0/21 
+diegel@work.de 
+111. 88.151.104.0/21 
+ip_ripe@tele2.ru antonio@cell.ru noc@cell.ru abuse@cell.ru info@skylink.ru support@skylink.ru 
+112. 89.32.240.0/21 
+office@ipv4trade.eu 
+113. 89.37.16.0/21 
+e.kalantarov@delta-telecom.net atesh@delta-telecom.net admin@az-ix.net noc@delta-telecom.net noc@az-ix.net 
+114. 89.37.32.0/21 
+e.kalantarov@delta-telecom.net atesh@delta-telecom.net admin@az-ix.net noc@delta-telecom.net noc@az-ix.net 
+115. 89.38.200.0/21 
+raul.redondo@vodafone.com abuse@corp.vodafone.es angel.cuadrado@vodafone.com oscar.pantoja@vodafone.com david.hernandez@vodafone.com opt_broadband@corp.vodafone.es esym_mantenimiento@comunitel.es 
+116. 89.41.0.0/21 
+e.kalantarov@delta-telecom.net atesh@delta-telecom.net admin@az-ix.net noc@delta-telecom.net noc@az-ix.net 
+117. 89.46.144.0/21 
+biuro@e-poludnie.pl info@epix.net.pl boss@artcom.pl epix@e-poludnie.pl akiermasz@artcom.pl lir@artcom.pl 
+118. 89.107.8.0/21 
+imtiyaz@aiwagulf.com 
+119. 89.150.8.0/21 
+admin-internet@andorratelecom.ad enric.castellet@andorratelecom.ad josepmaria.barris@andorratelecom.ad joan-marc.lauga@andorratelecom.ad gr_oi_asp_net@andorratelecom.ad marc.rodriguez@andorratelecom.ad clara.garriga@andorratelecom.ad 
+120. 89.200.128.0/21 
+abuse@sky.uk hostmaster@sky.uk nikolaos.bezirgiannidis@sky.uk ripe-update@sky.uk mark.ivens@sky.uk ripe@bskyb.com abuse@bskyb.com Freida.Tallon@bskyb.com ripe-notify@uk.psi.com abuse@sky.com peering@sky.uk ripe@josebus.org 
+121. 89.249.32.0/21 
+z.bijelic@telcopack.ch suarato@evok.com 
+122. 91.102.40.0/21 
+ripe@technos.nl info@technos.nl 
+123. 91.102.56.0/21 
+shaun.nicholls@comms365.com support@comms365.com noc@comms365.com anthony.cook@comms365.com 
+124. 91.106.16.0/21 
+ripe@masmovil.com javier.vazquez@ibercom.com miguel.santos@masmovil.com pedro.anquela@masmovil.com jose.montes@xtratelecom.es jamontes@xtratelecom.es jose.montes@masmovil.com jose.perez@xtratelecom.es jlperez@xtratelecom.es joseluis.perez@masmovil.com jose.rodrigo@xtratelecom.es noc@xtratelecom.es jarodrigo@xtratelecom.es joseantonio.rodrigo@masmovil.com hostmaster@servihosting.es ehernandez@telecablemurcia.es david.barbarin@ibercom.com ivan.soto@ibercom.com david.barbarin@masmovil.com javier.vazquez@masmovil.com abuse@masmovil.com abuse@ibercom.com peering@masmovil.com jaime.ramos@masmovil.com 
+125. 91.107.104.0/21 
+admins@datapro.ru 
+126. 91.108.184.0/21 
+rir@groupon.ch prod-netops@groupon.com andor.westphal@groupon.com 
+127. 91.190.248.0/21 
+hostmaster@eunetworks.com lir@eunetworks.com abuse@eunetworks.com noc@eunetworks.com Karsten.Koepp@eunetworks.com peering@eunetworks.com info@eunetworks.com hostmaster@lambdanet.net 
+128. 92.42.0.0/21 
+olegkolmykov@gmail.com nmby75@gmail.com admin@usinsk.ru mkalinkin@gmail.com 1@usinsk.ru olegkolmykov@hotmail.com 
+129. 92.43.168.0/21 
+adohayan@sama-ksa.org kalhamidi@saudipayments.com 
+130. 92.53.248.0/21 
+support@ogvo.nl 
+131. 93.88.64.0/21 
+kzahedi@tci.ir EZAMI@TCI.IR LIRADMIN@TCI.IR farahnaz_karami_82@yahoo.com 
+132. 93.92.16.0/21 
+kvveltho@belgian-telecom.be jbal@belgian-telecom.be 
+133. 93.94.96.0/21 
+grupored@bmn.es gestionred@bmn.es jsalvador.massanell@bmn.es gestion_red@sanostra.es antonio.bergas@bmn.es 
+134. 93.94.200.0/21 
+phil@hitrail.com dirk.wauters@infrabel.be eruiz@hitrail.com 
+135. 93.95.48.0/21 
+wilfrid.grassot@gatewaycomms.com sbalon@pccwglobal.com gatewaybeip@gatewaycomms.com wgrassot@pccwglobal.com GatewayBEIP@gatewaycomms.com 
+136. 93.113.72.0/21 
+office@ipv4trade.eu 
+137. 93.114.32.0/21 
+lir@astral.ro lir@upc.ro abuse@upc.ro hostmaster@rnc.ro ripe@lgi.com ripe@libertyglobal.com D.Cogut@dntis.ro domain-admin@roearn.ici.ro hostmaster@dntis.ro iulica@dntis.ro alexandru.dobre@upc.ro sbaumann@libertyglobal.com 
+138. 93.114.216.0/21 
+lir@astral.ro lir@upc.ro abuse@upc.ro hostmaster@rnc.ro ripe@lgi.com ripe@libertyglobal.com D.Cogut@dntis.ro domain-admin@roearn.ici.ro hostmaster@dntis.ro iulica@dntis.ro alexandru.dobre@upc.ro sbaumann@libertyglobal.com 
+139. 93.115.128.0/21 
+ripe@masmovil.com javier.vazquez@ibercom.com miguel.santos@masmovil.com pedro.anquela@masmovil.com jose.montes@xtratelecom.es jamontes@xtratelecom.es jose.montes@masmovil.com jose.perez@xtratelecom.es jlperez@xtratelecom.es joseluis.perez@masmovil.com jose.rodrigo@xtratelecom.es noc@xtratelecom.es jarodrigo@xtratelecom.es joseantonio.rodrigo@masmovil.com hostmaster@servihosting.es ehernandez@telecablemurcia.es david.barbarin@ibercom.com ivan.soto@ibercom.com david.barbarin@masmovil.com javier.vazquez@masmovil.com abuse@masmovil.com abuse@ibercom.com peering@masmovil.com jaime.ramos@masmovil.com 
+140. 93.115.216.0/21 
+ripe@asiatech.ir abuse@asiatech.ir me@shahabv.com shahrad@shahrad.net hello@fcp-network.ir 
+141. 93.152.240.0/21 
+ripe@novatel.bg office@novatel.bg 
+142. 93.174.56.0/21 
+dumnov@skc.ru inet-adm@skc.ru kub@skc.ru ripe@skc.ru 
+143. 93.187.136.0/21 
+abuse@siteground.com mm@1h.com mm@yuhu.biz 
+144. 93.189.72.0/21 
+lir@altair-tv.ru noc@mtu.ru gleb@altair-tv.ru lir-south-broadband@mts.ru lir@kuban.mts.ru lir@mtu.ru abuse@mtu.ru postmaster@mtu.ru ddos-reports@mtu.ru lir.ural@mts.ru salexey@spb.mts.ru noc@overta.ru ncc@saratov.mts.ru vbsmirno@mts.ru zgtk@zgtk.ru xoopu@fecity.ru netadmin@sib.mts.ru V.Kretinin@inteleca.org V.Kretinin@sib.mts.ru noc@tensortelecom.ru m.rodin@kaluga.comstar noc@mtsnet.ru spiridonov@spb.mts.ru fedoseev@spb.mts.ru abuse@mts.ru info@mts.ru net.adm@mts.ru labuta@samara.mts.ru lir@mtu.ri ilnar@taif-telcom.ru hostmaster@taif-telcom.ru dimon@astelit.ru parfenov@comstar.ru noc@tatarstan.mts.ru abuse@tatarstan.mts.ru spam@miass.multinex.ru a.perov@miass.multinex.ru a.trusov@dobroe.tv nesh@dobroe.ru o.anisimov@mts.ru hostmaster@lanck.net noc.nnov@mts.ru noc@izh.mts.ru saapz@mtu.ru saapz@mts.ru s.kataev@ural.mts.ru V.kretinin@sib.mts.ru rytitov@mts.ru omzavalishin@itrtc.ru rslyubov@mts.ru avpervuk@mts.ru oz@ptcomm.ru info@ptcomm.ru kass@tpi.ru aumnikov@ivanovo-gsm.ru a.sorokin@kirov.mts.ru gleb.korneev@gmail.com oems@lanck.net noc@ccl.ru abuse@ccl.ru au@rekom.ru mvsyvoro@mts.ru mpls.vld@mts.ru vvostran@mts.ru noc@tbt.ru leontyev@mts.ru abramov@comstar.ru dmitryl@ural.mts.ru bushuev@ural.mts.ru vladdu@mtsnet.ru noc@komi.mtsnet.ru noc@arzamas.multinex.ru lir@saratov.comstar ripe@ural.comstar rysaev_mm@nvrtc.ru nikolay.shishkin@chita.mts.ru avbystr1@arkhangelsk.mts.ru pdshalar@arkhangelsk.mts.ru s.gurkin@smolensk.comstar aygolds1@mts.ru sysadm@netroad.ru sysadm@uljanovsk.comstar lir@comstar.ru camelot@comstar.ru noc@comstar.ru abuse@comstar.ru rmaster@comstar.ru support@comstar.ru laptev@comstar.ru 
+145. 93.189.104.0/21 
+noc@aware-soft.com abuse@aware-soft.com ripe@aware-soft.com 
+146. 94.24.56.0/21 
+lir.admins@kufnet.at schuster@stwk.at 
+147. 94.127.72.0/21 
+ip-admin@akamai.com noam@akamai.com abuse@akamai.com ripe@akamai.com jpayne@akamai.com 
+148. 94.142.168.0/21 
+hostmaster@excellgroup.com noc@excellgroup.com abuse@excellgroup.com noc@excelgroup.com 
+149. 94.142.192.0/21 
+alessio.paoletti@telecomitalia.it valter.giare@telecomitalia.it giuseppe1.sardone@telecomitalia.it alberto.vaccaro@telecomitalia.it Alessio.Paoletti@telecomitalia.it Alberto.Vaccaro@telecomitalia.it Giuseppe1.Sardone@telecomitalia.it Valter.Giare@telecomitalia.it 
+150. 94.143.112.0/21 
+noc@redhat.com idonev@redhat.com noc-ripe@enovance.com n.marchal@enovance.com ripe@enovance.com 
+151. 94.143.224.0/21 
+tech-c@electronia.com admin-c@electronia.com 
+152. 94.155.104.0/21 
+abuse@btc-net.bg registry-ip@vivacom.bg lyubomir.georgiev@vivacom.bg stanish.stanishev@vivacom.bg petar.t.tsekov@vivacom.bg abuse-ip@vivacom.bg peering@vivacom.bg 
+153. 94.198.144.0/21 
+fr-infra-reseau-diademys@msp.fr.clara.net sourcing_aspaway@fr.clara.net abuse@diademys.com fr-infra-reseau@msp.fr.clara.net noc@diademys.com 
+154. 95.131.0.0/21 
+noc@centelcom.ru olga.a.orlova@rt.ru ripe@rt.ru vyacheslav.shelukhin@rt.ru yurov@mo.center.rt.ru abuse@rt.ru noc-ip@rt.ru peering@rt.ru geo@ns.kuban.ru Nikita.Semencha@south.rt.ru noc@vt.ru mav@samtel.ru yu.nazarov@samara.vt.ru lir@ncnet.ru noc@ncnet.ru abuse@moscow.rt.ru PBuzhinsky@tvoe.tv AKalmykov@tvoe.tv ikaras@tvoe.tv PetrBuz@tvoe.tv ip-reg@ncc.primorye.ru lsm@tts.magadan.su pre@tts.magadan.su dnikiforov@nsk.tvoe.tv noc@nchelny.ru abuse@chelni.net noc@chelni.net sergey.guznov@south.rt.ru noc@samtel.ru abuse@samtel.ru postmaster@samtel.ru admin@telenet.ru noc@telenet.ru i.lebedev@telenet.ru tsr@telenet.ru noc@vologda.ru e.platonova@vologda.ru leon@vologda.ru ipre@mfist.usi.ru kasymov-yus@ural.rt.ru asd@ab.ru noc@sibnet.ru noc@sinor.ru suslov@sibirtelecom.ru si_valynkin@nsk.sibirtelecom.ru ip-reg@ripn.net andrew@elkatel.ru IronWhale@gmail.com noc@elkatel.ru noc@sakhalin.ru lir@sakhalin.ru abuse@sakhalin.ru postmaster@sakhalin.ru noc@rosnet.ru abuse@rosnet.ru i.petrov@rosnet.ru serg@rosnet.ru cnt@mail.primorye.ru gav@prim.dsv.ru anr@vladivostok.ru lir@dtd.ptn.ru abuse@dtd.ptn.ru ciscoykt@yandex.ru alex_cooler@sakha.ru vad@tomsknet.ru evy@ripn.net ip-dbm-request@ripn.net ip-box@ripn.net rtip-reg@ripn.net o.goldobin@rosnet.ru vps@sibmail.ru vps@sibnet.ru noc@sutc.ru abuse@sutc.ru vg@mari-el.ru ip-reg@noc.kamchatka.ru abuse@noc.kamchatka.ru ip@noc.kamchatka.ru peering@noc.kamchatka.ru postmaster@noc.kamchatka.ru support@mail.kamchatka.ru noc@noc.kamchatka.ru lir@noc.kamchatka.ru ras@dagsvyaz.ru adm@dinet.ru avb@san.ru den@amur.dsv.ru dvi@amur.dsv.ru admin@nms.amur.ru a.popkov@en-ter.ru osa@FreeBSD.org maestro@datacom.natm.ru noc@kht.ru red@kht.ru aleksandr.i.ivanov@south.rt.ru a.perov@sura.ru mbilkevich@kirov.ru mike@moris.ru mike@moris.com noc@tversvyaz.ru vladv@tvcom.ru gukkels@gmail.com noc@telecet.com abuse@telecet.com ripe@telenet.ru dmvy@telenet.ru noc@rosnet.net v.melnikov@rtlabs.ru kiselev@centelcom.ru kiselev@spdop.ru nic@lipetsk.ru ripe@tvoe.tv abuse@primorye.ru g-adv@mail.ru noc@lsi.ru abuse@lsi.ru stv.monitoring@south.rt.ru smelik-av@ural.rt.ru noc@gd.usi.ru mironov@ineco.ryazan.su noc@ineco.ryazan.su ermak@ineco.ryazan.su kurych@mail.esoo.ru kurych@ineco.ryazan.su asu@tmb.ru ms@tmb.ru kom@tmb.ru vaa@yartelecom.ru noc@tomsknet.ru Valery.Kalinin@Megafon.ru Valeriy.Kalinin@Megafon.ru hunter@keeper.natm.ru i.korolev@baltnet.ru a.yurushev@baltnet.ru noc@vsi.ru abuse@vsi.ru avs@rtcomm-yug.ru cae@donpac.ru ipadm@donpac.ru eagle@donpac.ru wert@donpac.ru petroff@sura.ru denis.mishin@nw.rt.ru Sergey.N.Ermakov@nw.rt.ru ncc@novgorod.net registry@eltel.net vvd@ellink.ru eyv@ellink.ru a.yu.orlov@volga.rt.ru stepanov@mail.esoo.ru nikonov@esoo.ru a.balashov@volga.rt.ru a.objorin@volga.rt.ru noc@atricom.ru baas@atricom.ru burkov@atricom.ru irina@atriplus.ru alec@simix.ru noc@volga.rt.ru cherry@kes.kuban.ru Vitaliy_Petrenko@center.rt.ru Andrey_Nesterov@center.rt.ru noc@ttknet.ru abuse@ttknet.ru lir@ttknet.ru registry@atnet.ru noc-adm@atnet.ru noc@surnet.ru abuse@surnet.ru kalina@avtlg.ru ainf@avtlg.ru noc@elcom.ru ip-reg@noc.brsi.ru abuse@noc.brsi.ru sysadmin@moris.ru kostina-il@ural.rt.ru i.v.nikolaenko@center.rt.ru smena@astranet.ru mikhail.filimonov@south.rt.ru alex@astranet.ru rusin@astranet.ru slava@kraslan.ru admin@kursknet.ru ig@kursknet.ru kokorin-syu@mfist.usi.ru operator@gorny.ru noc@gorny.ru lir@ncc.sibirtelecom.ru manzarov@buryat.sibirtelecom.ru andrey.belashov@center.rt.ru noc@orel.ru D.Tarasov@center.rt.ru dns@turbo.nsk.su max@turbo.nsk.su sobolev@khakasnet.ru ab@soes.su rsl@radnet.ru ont@radnet.ru artur.v.sardlishvili@south.rt.ru arsen.a.guchakov@south.rt.ru uri@kbrnet.ru person@dagsvyaz.ru Sergey_Istomin@centertelecom.ru unequal@gmail.com a.malin@mail.stcompany.ru PanovK@kes.ru hostmaster@krasnet.ru noc@mari-el.ru tech-noc@en-ter.ru ip-reg@urtc.ru den@urtc.ru kia@urtc.ru pbd@urtc.ru noc@rosmail.com noc@irtel.ru vek@irtel.ru noc@mo.center.rt.ru gummy@lipetsk.ru zinov@omskelecom.ru adm@omskelecom.ru noc@tula.net inoyat_kayumov@center.rt.ru xatxu1973@yandex.ru noc@kaluga.ru abuse@kaluga.ru monitoring@kaluga.ru dnsmaster@kaluga.ru hosting@kaluga.ru support@kaluga.ru 
+155. 95.140.136.0/21 
+ripe-mng@csp.it Roberto.Borri@csp.it matteo.maglioli@csp.it roberto.recchia@gruppoiren.it Roberto.Recchia@csp.it luca.broglio@gmail.com valentina.bruno@csp.it 
+156. 95.163.240.0/21 
+gross@reg.ru noc@reg.ru support@reg.ru abuse@reg.ru arp@reg.ru hakimov@reg.ru alexhakimov@gmail.com msknoc@relcom.net vegas@relcom.net netadmin@relcom.net noc@logol.ru abuse@logol.ru 
+157. 95.178.0.0/21 
+mariusz@provector.pl marcin.stapor@nsti.pl biuro@provector.pl 
+158. 95.178.8.0/21 
+lir@mnitelecom.pl lir@hyperion.net.pl ripe@hyperion.net.pl adamk@hyperion.pl tomaszd@hyperion.pl r.szymanski@mnicu.pl m.tur@mnitelecom.pl mtur@mni.pl bok@profiline.pl bgp@profiline.pl abuse@profiline.pl p.sulkowski@profiline.pl hostmaster@profiline.pl lir@hyperion.pl theryll@telprojekt.pl p.dechamps@lycee-moliere.org ripe-notify@lemmers.be abuse@dnet.pl 
+159. 95.178.32.0/21 
+lir@mnitelecom.pl lir@hyperion.net.pl ripe@hyperion.net.pl adamk@hyperion.pl tomaszd@hyperion.pl r.szymanski@mnicu.pl m.tur@mnitelecom.pl mtur@mni.pl bok@profiline.pl bgp@profiline.pl abuse@profiline.pl p.sulkowski@profiline.pl hostmaster@profiline.pl lir@hyperion.pl theryll@telprojekt.pl p.dechamps@lycee-moliere.org ripe-notify@lemmers.be abuse@dnet.pl 
+160. 95.178.40.0/21 
+mariusz@provector.pl marcin.stapor@nsti.pl biuro@provector.pl 
+161. 95.178.96.0/21 
+mariusz@provector.pl marcin.stapor@nsti.pl biuro@provector.pl 
+162. 95.178.112.0/21 
+lir@mnitelecom.pl lir@hyperion.net.pl ripe@hyperion.net.pl adamk@hyperion.pl tomaszd@hyperion.pl r.szymanski@mnicu.pl m.tur@mnitelecom.pl mtur@mni.pl bok@profiline.pl bgp@profiline.pl abuse@profiline.pl p.sulkowski@profiline.pl hostmaster@profiline.pl lir@hyperion.pl theryll@telprojekt.pl p.dechamps@lycee-moliere.org ripe-notify@lemmers.be abuse@dnet.pl 
+163. 95.178.120.0/21 
+mariusz@provector.pl marcin.stapor@nsti.pl biuro@provector.pl 
+164. 109.68.0.0/21 
+lir@capita.co.uk lawrence.guedes@capita.co.uk 
+165. 109.69.40.0/21 
+it.admins@vipoperator.mk ctnd@onevip.mk abuse@vipoperator.mk 
+166. 109.69.104.0/21 
+alex@ssluk.com alex@iconfonts.com 
+167. 109.69.152.0/21 
+netzwerk@vontobel.com damir.delas@vontobel.com DVCAdmin@vontobel.com rolf.zimmermann@vontobel.com thomas.hitz@vontobel.com 
+168. 109.70.88.0/21 
+helpdesk@nexgen-net.com steve.frankovich@nexgen-net.co 
+169. 109.71.0.0/21 
+ripe@tradetracker.net tsteneker@tradetracker.com abuse@tradetracker.net 
+170. 109.71.8.0/21 
+noc@selectel.ru malevanov@selectel.ru sizovkirill@selectel.ru 
+171. 109.104.232.0/21 
+denis.dulcetta@logostech.it techsupport@logostech.it abuse@4isp.it livio.pianura@logostech.it 
+172. 109.163.248.0/21 
+ripe-updates@elisa.fi lir@elisa.fi hostmaster@elisa.fi abuse@elisa.fi ripe@kymp.fi lir-updates@elisa.fi registry@sci.fi peering@elisa.net peering@elisa.fi 
+173. 109.205.184.0/21 
+alistair.cowan@technicalgrowth.co.uk dist-accountspayable@viantinc.com us-noc@viantinc.com hostmaster@specificmedia.co.uk 
+174. 109.234.72.0/21 
+it@nexoneu.com noc@nexon.lu alan@nexon.lu 
+175. 134.19.136.0/21 
+office@times.sk ripe@citicom.sk 
+176. 134.19.192.0/21 
+etienne.folio@lsys.fr etienne.folio@lsystems.fr 
+177. 134.90.216.0/21 
+daniel.kunz@exasys.com info@exaSys.com 
+178. 141.170.208.0/21 
+islalink@islalink.es javier.valero@islalink.es ricardo.rodrigo@islalink.es salvador.martinez@islalink.es 
+179. 146.0.64.0/21 
+ripe@dailymotion.com peering@dailymotion.com notifications@dailymotion.com notify@dailymotion.com RIPE@dailymotion.com network@dailymotion.com 
+180. 146.255.184.0/21 
+administracion@housingboulevard.com miguelangel.quintero@housingboulevard.com 
+181. 149.126.56.0/21 
+tech@dnsbelgium.be ripe-tech@dnsbelgium.be admin@dns.be network@dnsbelgium.be 
+182. 149.255.160.0/21 
+noc@centelcom.ru olga.a.orlova@rt.ru ripe@rt.ru vyacheslav.shelukhin@rt.ru yurov@mo.center.rt.ru abuse@rt.ru noc-ip@rt.ru peering@rt.ru geo@ns.kuban.ru Nikita.Semencha@south.rt.ru noc@vt.ru mav@samtel.ru yu.nazarov@samara.vt.ru lir@ncnet.ru noc@ncnet.ru abuse@moscow.rt.ru PBuzhinsky@tvoe.tv AKalmykov@tvoe.tv ikaras@tvoe.tv PetrBuz@tvoe.tv ip-reg@ncc.primorye.ru lsm@tts.magadan.su pre@tts.magadan.su dnikiforov@nsk.tvoe.tv noc@nchelny.ru abuse@chelni.net noc@chelni.net sergey.guznov@south.rt.ru noc@samtel.ru abuse@samtel.ru postmaster@samtel.ru admin@telenet.ru noc@telenet.ru i.lebedev@telenet.ru tsr@telenet.ru noc@vologda.ru e.platonova@vologda.ru leon@vologda.ru ipre@mfist.usi.ru kasymov-yus@ural.rt.ru asd@ab.ru noc@sibnet.ru noc@sinor.ru suslov@sibirtelecom.ru si_valynkin@nsk.sibirtelecom.ru ip-reg@ripn.net andrew@elkatel.ru IronWhale@gmail.com noc@elkatel.ru noc@sakhalin.ru lir@sakhalin.ru abuse@sakhalin.ru postmaster@sakhalin.ru noc@rosnet.ru abuse@rosnet.ru i.petrov@rosnet.ru serg@rosnet.ru cnt@mail.primorye.ru gav@prim.dsv.ru anr@vladivostok.ru lir@dtd.ptn.ru abuse@dtd.ptn.ru ciscoykt@yandex.ru alex_cooler@sakha.ru vad@tomsknet.ru evy@ripn.net ip-dbm-request@ripn.net ip-box@ripn.net rtip-reg@ripn.net o.goldobin@rosnet.ru vps@sibmail.ru vps@sibnet.ru noc@sutc.ru abuse@sutc.ru vg@mari-el.ru ip-reg@noc.kamchatka.ru abuse@noc.kamchatka.ru ip@noc.kamchatka.ru peering@noc.kamchatka.ru postmaster@noc.kamchatka.ru support@mail.kamchatka.ru noc@noc.kamchatka.ru lir@noc.kamchatka.ru ras@dagsvyaz.ru adm@dinet.ru avb@san.ru den@amur.dsv.ru dvi@amur.dsv.ru admin@nms.amur.ru a.popkov@en-ter.ru osa@FreeBSD.org maestro@datacom.natm.ru noc@kht.ru red@kht.ru aleksandr.i.ivanov@south.rt.ru a.perov@sura.ru mbilkevich@kirov.ru mike@moris.ru mike@moris.com noc@tversvyaz.ru vladv@tvcom.ru gukkels@gmail.com noc@telecet.com abuse@telecet.com ripe@telenet.ru dmvy@telenet.ru noc@rosnet.net v.melnikov@rtlabs.ru kiselev@centelcom.ru kiselev@spdop.ru nic@lipetsk.ru ripe@tvoe.tv abuse@primorye.ru g-adv@mail.ru noc@lsi.ru abuse@lsi.ru stv.monitoring@south.rt.ru smelik-av@ural.rt.ru noc@gd.usi.ru mironov@ineco.ryazan.su noc@ineco.ryazan.su ermak@ineco.ryazan.su kurych@mail.esoo.ru kurych@ineco.ryazan.su asu@tmb.ru ms@tmb.ru kom@tmb.ru vaa@yartelecom.ru noc@tomsknet.ru Valery.Kalinin@Megafon.ru Valeriy.Kalinin@Megafon.ru hunter@keeper.natm.ru i.korolev@baltnet.ru a.yurushev@baltnet.ru noc@vsi.ru abuse@vsi.ru avs@rtcomm-yug.ru cae@donpac.ru ipadm@donpac.ru eagle@donpac.ru wert@donpac.ru petroff@sura.ru denis.mishin@nw.rt.ru Sergey.N.Ermakov@nw.rt.ru ncc@novgorod.net registry@eltel.net vvd@ellink.ru eyv@ellink.ru a.yu.orlov@volga.rt.ru stepanov@mail.esoo.ru nikonov@esoo.ru a.balashov@volga.rt.ru a.objorin@volga.rt.ru noc@atricom.ru baas@atricom.ru burkov@atricom.ru irina@atriplus.ru alec@simix.ru noc@volga.rt.ru cherry@kes.kuban.ru Vitaliy_Petrenko@center.rt.ru Andrey_Nesterov@center.rt.ru noc@ttknet.ru abuse@ttknet.ru lir@ttknet.ru registry@atnet.ru noc-adm@atnet.ru noc@surnet.ru abuse@surnet.ru kalina@avtlg.ru ainf@avtlg.ru noc@elcom.ru ip-reg@noc.brsi.ru abuse@noc.brsi.ru sysadmin@moris.ru kostina-il@ural.rt.ru i.v.nikolaenko@center.rt.ru smena@astranet.ru mikhail.filimonov@south.rt.ru alex@astranet.ru rusin@astranet.ru slava@kraslan.ru admin@kursknet.ru ig@kursknet.ru kokorin-syu@mfist.usi.ru operator@gorny.ru noc@gorny.ru lir@ncc.sibirtelecom.ru manzarov@buryat.sibirtelecom.ru andrey.belashov@center.rt.ru noc@orel.ru D.Tarasov@center.rt.ru dns@turbo.nsk.su max@turbo.nsk.su sobolev@khakasnet.ru ab@soes.su rsl@radnet.ru ont@radnet.ru artur.v.sardlishvili@south.rt.ru arsen.a.guchakov@south.rt.ru uri@kbrnet.ru person@dagsvyaz.ru Sergey_Istomin@centertelecom.ru unequal@gmail.com a.malin@mail.stcompany.ru PanovK@kes.ru hostmaster@krasnet.ru noc@mari-el.ru tech-noc@en-ter.ru ip-reg@urtc.ru den@urtc.ru kia@urtc.ru pbd@urtc.ru noc@rosmail.com noc@irtel.ru vek@irtel.ru noc@mo.center.rt.ru gummy@lipetsk.ru zinov@omskelecom.ru adm@omskelecom.ru noc@tula.net inoyat_kayumov@center.rt.ru xatxu1973@yandex.ru noc@kaluga.ru abuse@kaluga.ru monitoring@kaluga.ru dnsmaster@kaluga.ru hosting@kaluga.ru support@kaluga.ru 
+183. 151.237.248.0/21 
+info@ingate.de 
+184. 151.248.16.0/21 
+bitbucket@ripe.net hostmaster@ripe.net abuse@ripe.net ops@ripe.net 
+185. 151.252.16.0/21 
+info@rehwork.de a.rehbehn@rehwork.de peering@rehwork.de 
+186. 172.241.0.0/21 
+bk@servers.com abuse@servers.com abuse@servers.ru 
+187. 172.241.48.0/21 
+bk@servers.com abuse@servers.com abuse@servers.ru 
+188. 172.255.136.0/21 
+bk@servers.com abuse@servers.com abuse@servers.ru 
+189. 172.255.248.0/21 
+bk@servers.com abuse@servers.com abuse@servers.ru 
+190. 176.32.240.0/21 
+noc@telecall.ru noc@almatel.ru citrin@telecall.ru daniil@tarif.ru vadim@telecall.ru abuse@almatel.ru support@almatel.ru noc-podolsk@cifra1.ru abuse-podolsk@cifra1.ru support-podolsk@cifra1.ru info-podolsk@cifra1.ru opd@itberry.ru abuse@telecall.ru delo@vostoktelecom.ru smirnov@vostoktelecom.ru noc@podolsk.ru am@podolsk.ru rk@podolsk.ru xlighter@ultranet.ru d.potapov@tcenter.ru balex@istra.ru dymsh@trtk.ru netadm@comcor.ru ired@trtk.ru noc@roswebtver.ru lir@rdp.ru d.topolyanskiy@gmail.com 
+191. 176.56.32.0/21 
+alexander.stepanenko@cte.lv dns@mallorn.eu konstantin.trushin@ctco.lv dmitry.shevchuk@skywindgroup.com alexander.stepanenko@skywindgroup.com 
+192. 176.57.200.0/21 
+ripe@solucionesdinamicas.net JGARCIA@SOLUNET.ES 
+193. 176.67.248.0/21 
+networking@quotemtf.com info@quotemtf.com randy@orbixa.com 
+194. 176.96.184.0/21 
+dm@p-svs.ru 
+195. 176.110.216.0/21 
+hostmaster@gvm.ro office@gvm.ro abuse@gvm.ro 
+196. 176.112.80.0/21 
+hostmaster@gvm.ro office@gvm.ro abuse@gvm.ro 
+197. 176.113.184.0/21 
+hostmaster@gvm.ro office@gvm.ro abuse@gvm.ro 
+198. 176.118.200.0/21 
+hostmaster@gvm.ro office@gvm.ro abuse@gvm.ro 
+199. 176.124.176.0/21 
+hostmaster@gvm.ro office@gvm.ro abuse@gvm.ro 
+200. 176.241.176.0/21 
+george.elaily@kleos.net pnavidi@kleos.net 
+201. 178.21.96.0/21 
+ripe@linkem.com 
+202. 178.22.16.0/21 
+andy@oneblotter.net ndeacon@axontradingsolutions.com noc@oneblotter.net andy@corenetwork.co.uk 
+203. 178.216.40.0/21 
+biuro@e-poludnie.pl info@epix.net.pl boss@artcom.pl epix@e-poludnie.pl akiermasz@artcom.pl lir@artcom.pl 
+204. 178.249.112.0/21 
+it.admins@vipoperator.mk ctnd@onevip.mk abuse@vipoperator.mk 
+205. 178.249.168.0/21 
+ripe@vestitel.bg abuse@vestitel.bg 
+206. 178.250.152.0/21 
+noc@helios-net.ru chris@it-structure.net kadirov@helios-net.ru hostmaster@mediacomsat.ru 
+207. 188.64.224.0/21 
+ck@twitter.com noc@twitter.com ripe@scanandtarget.com 
+208. 188.65.160.0/21 
+ripe@onexs.com ripe@ndi.nl jwvanempel@ndi.nl 
+209. 188.66.32.0/21 
+noc@gldn.net noc@sovintel.ru CustomerCare@beeline.ru Internet@b2b.beeline.ru abuse-b2b@beeline.ru noc@bca.ru noc@spb.gldn.net ncc@spb.gldn.net ncc@sovintel.ru lir-adm@foratec.net apkiselev@beeline.ru ivanikov@sovintel.ru noc@ctk.ru a.novikov@ctk.ru p.krasotin@ctk.ru SGershovich@mur.beeline.ru noc@spb.beeline.ru registry@eltel.net noc@eltel.net abuse@eltel.net am@wbt.ru shultz@wbt.ru ip-adm@wbt.ru noc@ranetka.ru i.semenyuk@corp.mail.ru noc@ekb.beeline.ru alexeev_am@office.beeline.ru a.alexeev@tatintel.com azat@khayaliev.ru AKhayaliev@kzn.beeline.ru noc@beeline.ru noc@mplik.ru tonik@ur.ru ant@ur.ru admins@tyumen.ru bad@ud9.ru NCC@atelperm.ru KBukheruk@sch.beeline.ru VKochanov@sch.beeline.ru s.egorov@chuvashia.ru noc@chuvashia.ru ripe@bryansktel.ru ripe@magistraly.ru ripe@ural-net.ru lioncub@ural-net.ru dv@dv.ru lyadovoy@sovintel.ru sergr@sovintel.ru astadnikov@gldn.net astadnikov@beeline.ru IIvannikov@beeline.ru kisel@sovam.com zherebtsov_rg@gldn.net bsupport@beeline.ru asuslova@beeline.ru echipura@beeline.ru ymasterova@beeline.ru iabrashina@beeline.ru dmenzulskiy@beeline.ru abuse@b2b.beeline.ru ovedina@spb.beeline.ru sloginov@spb.beeline.ru 
+210. 188.68.200.0/21 
+noc@selectel.ru malevanov@selectel.ru sizovkirill@selectel.ru 
+211. 188.92.24.0/21 
+support@nttis.com andrea.giordano@porini.it denis@ripe.net 
+212. 188.92.88.0/21 
+support@pulsant.com ripe@pulsant.com abuse@pulsant.com support@onyx.net RIPE-maint-notify@onyx.net noc@onyx.net 
+213. 188.93.248.0/21 
+itsm@psa.at netmaster@nextlayer.at gerald.kober@psa.at hostmaster@aon.at 
+214. 188.208.56.0/21 
+ripe@asiatech.ir abuse@asiatech.ir me@shahabv.com shahrad@shahrad.net hello@fcp-network.ir 
+215. 188.208.208.0/21 
+ripe@asiatech.ir abuse@asiatech.ir me@shahabv.com shahrad@shahrad.net hello@fcp-network.ir 
+216. 188.209.0.0/21 
+ripe@asiatech.ir abuse@asiatech.ir me@shahabv.com shahrad@shahrad.net hello@fcp-network.ir 
+217. 188.213.88.0/21 
+office@ipv4trade.eu 
+218. 192.102.24.0/21 
+ripe-updates@elisa.fi lir@elisa.fi hostmaster@elisa.fi abuse@elisa.fi ripe@kymp.fi lir-updates@elisa.fi registry@sci.fi peering@elisa.net peering@elisa.fi 
+219. 192.109.0.0/21 
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+220. 192.126.8.0/21 
+ripe-updates@elisa.fi lir@elisa.fi hostmaster@elisa.fi abuse@elisa.fi ripe@kymp.fi lir-updates@elisa.fi registry@sci.fi peering@elisa.net peering@elisa.fi 
+221. 193.0.24.0/21 
+ts@ripe.net ops@ripe.net abuse@ripe.net training@ripe.net brian@ripe.net opsmtg@ripe.net mir@ripe.net becha@bluelight.ripe.net 
+222. 193.5.160.0/21 
+abuse@bluewin.ch engineering@ip-plus.net ip.management@swisscom.com hostmaster@entris-banking.ch engineering-dns.connectivity-its@swisscom.com abuse@ip-plus.net admin.dns@swisscom.com chapuis@ip-plus.net martin.wittmann@swisscom.com noc@swissdigicert.ch oppermann@networx.ch engineering@ipplus.net ipmgmt.res@swisscom.com mkuhn@dosim.ch noc@ip-plus.net IP-Plus.Peering@swisscom.com denis@ripe.net fankhauser@ip-plus.net angel@ip-plus.net ritter@ip-plus.net boogman@ip-plus.net admin@boogman.ch moroni@ip-plus.net dodeller@ip-plus.net 
+223. 193.35.168.0/21 
+ripe@o2.com ripe@o2.ie RIPE-o2GERMANY@o2.com george.chung@o2.com 
+Сеть 224. 193.124.104.0/21 
+является подсетью более крупной сети
+Сеть 225. 193.124.160.0/21 
+является подсетью более крупной сети
+Сеть 226. 193.124.168.0/21 
+является подсетью более крупной сети
+227. 193.124.192.0/21 
+wmsalem@gmail.com weam.salem@syriantelecom.sy exp-dir@net.sy 
+Сеть 228. 193.124.232.0/21 
+является подсетью более крупной сети
+229. 193.149.208.0/21 
+daniel.rueegg@intl.att.com drueegg@emea.att.com euabsipa@emea.att.com euabsnic@emea.att.com abuse@att.net emeadnr@emea.att.com daniel.rueegg@int.att.com dr6348@att.com dani_rueegg@ch.ibm.com euibmipa@nl.ibm.com martin.zuber@ch.ibm.com ROB.JUKES@UNITEDKINGDOM.ATTGIS.COM steve.bowden@unitedkingdom.ncr.com kennethh@dk.ibm.com huntj@uk.att.com david.delchar@att.com 
+230. 193.149.232.0/21 
+daniel.rueegg@intl.att.com drueegg@emea.att.com euabsipa@emea.att.com euabsnic@emea.att.com abuse@att.net emeadnr@emea.att.com daniel.rueegg@int.att.com dr6348@att.com dani_rueegg@ch.ibm.com euibmipa@nl.ibm.com martin.zuber@ch.ibm.com ROB.JUKES@UNITEDKINGDOM.ATTGIS.COM steve.bowden@unitedkingdom.ncr.com kennethh@dk.ibm.com huntj@uk.att.com david.delchar@att.com 
+231. 193.236.112.0/21 
+noc@fccn.pt ipadm@fccn.pt report@cert.rcts.pt assis.guerreiro@dns.pt 
+232. 193.236.152.0/21 
+noc@fccn.pt ipadm@fccn.pt report@cert.rcts.pt assis.guerreiro@dns.pt 
+233. 193.236.184.0/21 
+noc@fccn.pt ipadm@fccn.pt report@cert.rcts.pt assis.guerreiro@dns.pt 
+234. 194.29.88.0/21 
+daniel.rueegg@intl.att.com drueegg@emea.att.com euabsipa@emea.att.com euabsnic@emea.att.com abuse@att.net emeadnr@emea.att.com daniel.rueegg@int.att.com dr6348@att.com dani_rueegg@ch.ibm.com euibmipa@nl.ibm.com martin.zuber@ch.ibm.com ROB.JUKES@UNITEDKINGDOM.ATTGIS.COM steve.bowden@unitedkingdom.ncr.com kennethh@dk.ibm.com huntj@uk.att.com david.delchar@att.com 
+235. 194.29.104.0/21 
+daniel.rueegg@intl.att.com drueegg@emea.att.com euabsipa@emea.att.com euabsnic@emea.att.com abuse@att.net emeadnr@emea.att.com daniel.rueegg@int.att.com dr6348@att.com dani_rueegg@ch.ibm.com euibmipa@nl.ibm.com martin.zuber@ch.ibm.com ROB.JUKES@UNITEDKINGDOM.ATTGIS.COM steve.bowden@unitedkingdom.ncr.com kennethh@dk.ibm.com huntj@uk.att.com david.delchar@att.com 
+236. 194.42.168.0/21 
+daniel.rueegg@intl.att.com drueegg@emea.att.com euabsipa@emea.att.com euabsnic@emea.att.com abuse@att.net emeadnr@emea.att.com daniel.rueegg@int.att.com dr6348@att.com dani_rueegg@ch.ibm.com euibmipa@nl.ibm.com martin.zuber@ch.ibm.com ROB.JUKES@UNITEDKINGDOM.ATTGIS.COM steve.bowden@unitedkingdom.ncr.com kennethh@dk.ibm.com huntj@uk.att.com david.delchar@att.com 
+Сеть 237. 194.58.16.0/21 
+является подсетью более крупной сети
+238. 194.58.48.0/21 
+wmsalem@gmail.com weam.salem@syriantelecom.sy exp-dir@net.sy 
+Сеть 239. 194.58.144.0/21 
+является подсетью более крупной сети
+240. 194.58.208.0/21 
+wmsalem@gmail.com weam.salem@syriantelecom.sy exp-dir@net.sy 
+241. 194.58.248.0/21 
+wmsalem@gmail.com weam.salem@syriantelecom.sy exp-dir@net.sy 
+242. 194.67.96.0/21 
+gross@reg.ru noc@reg.ru support@reg.ru abuse@reg.ru arp@reg.ru hakimov@reg.ru alexhakimov@gmail.com msknoc@relcom.net vegas@relcom.net netadmin@relcom.net noc@logol.ru abuse@logol.ru 
+243. 194.69.48.0/21 
+daniel.rueegg@intl.att.com drueegg@emea.att.com euabsipa@emea.att.com euabsnic@emea.att.com abuse@att.net emeadnr@emea.att.com daniel.rueegg@int.att.com dr6348@att.com dani_rueegg@ch.ibm.com euibmipa@nl.ibm.com martin.zuber@ch.ibm.com ROB.JUKES@UNITEDKINGDOM.ATTGIS.COM steve.bowden@unitedkingdom.ncr.com kennethh@dk.ibm.com huntj@uk.att.com david.delchar@att.com 
+244. 194.69.168.0/21 
+daniel.rueegg@intl.att.com drueegg@emea.att.com euabsipa@emea.att.com euabsnic@emea.att.com abuse@att.net emeadnr@emea.att.com daniel.rueegg@int.att.com dr6348@att.com dani_rueegg@ch.ibm.com euibmipa@nl.ibm.com martin.zuber@ch.ibm.com ROB.JUKES@UNITEDKINGDOM.ATTGIS.COM steve.bowden@unitedkingdom.ncr.com kennethh@dk.ibm.com huntj@uk.att.com david.delchar@att.com 
+245. 194.69.240.0/21 
+adminis.ripe@telefonica.es adminis.ripe@telefonica.com nemesys@telefonica.es administracion.RIPE@telefonica.com rimatransito@telefonica.com cdccomunicaciones@telefonica.com ripe-dbm@ripe.net 
+246. 194.85.240.0/21 
+as@indata.org.ru dk@indata.org.ru 
+247. 194.102.48.0/21 
+ionut@rotld.ro catalinl@rotld.ro hostmaster@rotld.ro hostmaster@rnc.ro mihaildu@rotld.ro estaicut@rnc.ro.REMOVETHISSUFFIX 
+248. 194.116.64.0/21 
+ripe-mng@csp.it Roberto.Borri@csp.it matteo.maglioli@csp.it roberto.recchia@gruppoiren.it Roberto.Recchia@csp.it luca.broglio@gmail.com valentina.bruno@csp.it 
+249. 194.135.248.0/21 
+wmsalem@gmail.com weam.salem@syriantelecom.sy exp-dir@net.sy 
+250. 194.153.160.0/21 
+ip-management.cit@siemens.com abuse.it@siemens.com guardian.de.it-solutions@atos.net winfried.magerl@mch.sbs.de hostmaster@siemens.de 
+251. 194.182.224.0/21 
+kontakt@lenvikkabeltv.no 
+252. 195.208.208.0/21 
+noc@ix.ru ip-reg@ripn.net ru-ncc@ripn.net msk-ix-noc@ripn.net map-adm@ripn.net 
+253. 195.209.152.0/21 
+Сеть 254. 195.250.216.0/21 
+является подсетью более крупной сети
+Сеть 255. 212.6.56.0/21 
+является подсетью более крупной сети
+Сеть 256. 212.109.168.0/21 
+является подсетью более крупной сети
+Сеть 257. 212.110.80.0/21 
+является подсетью более крупной сети
+Сеть 258. 212.110.144.0/21 
+является подсетью более крупной сети
+Сеть 259. 213.195.56.0/21 
+является подсетью более крупной сети
+Сеть 260. 217.26.232.0/21 
+является подсетью более крупной сети
+Сеть 261. 217.150.64.0/21 
+является подсетью более крупной сети
+Сеть 262. 31.130.208.0/21 
+является подсетью более крупной сети
+Сеть 263. 31.134.200.0/21 
+является подсетью более крупной сети
+Сеть 264. 46.151.16.0/21 
+является подсетью более крупной сети
+Сеть 265. 46.151.88.0/21 
+является подсетью более крупной сети
+Сеть 266. 46.151.176.0/21 
+является подсетью более крупной сети
+Сеть 267. 46.175.144.0/21 
+является подсетью более крупной сети
+Сеть 268. 62.122.0.0/21 
+является подсетью более крупной сети
+Сеть 269. 62.122.104.0/21 
+является подсетью более крупной сети
+Сеть 270. 62.122.112.0/21 
+является подсетью более крупной сети
+Сеть 271. 62.122.184.0/21 
+является подсетью более крупной сети
+Сеть 272. 62.182.80.0/21 
+является подсетью более крупной сети
+Сеть 273. 62.182.184.0/21 
+является подсетью более крупной сети
+Сеть 274. 77.87.24.0/21 
+является подсетью более крупной сети
+Сеть 275. 77.87.56.0/21 
+является подсетью более крупной сети
+Сеть 276. 77.87.120.0/21 
+является подсетью более крупной сети
+Сеть 277. 78.31.8.0/21 
+является подсетью более крупной сети
+Сеть 278. 83.97.72.0/21 
+является подсетью более крупной сети
+Сеть 279. 83.142.200.0/21 
+является подсетью более крупной сети
+Сеть 280. 83.142.208.0/21 
+является подсетью более крупной сети
+Сеть 281. 83.143.88.0/21 
+является подсетью более крупной сети
+Сеть 282. 84.205.168.0/21 
+является подсетью более крупной сети
+Сеть 283. 84.205.184.0/21 
+является подсетью более крупной сети
+Сеть 284. 87.239.224.0/21 
+является подсетью более крупной сети
+Сеть 285. 89.22.192.0/21 
+является подсетью более крупной сети
+Сеть 286. 91.189.32.0/21 
+является подсетью более крупной сети
+Сеть 287. 91.245.16.0/21 
+является подсетью более крупной сети
+Сеть 288. 93.157.224.0/21 
+является подсетью более крупной сети
+Сеть 289. 94.232.40.0/21 
+является подсетью более крупной сети
+Сеть 290. 109.95.56.0/21 
+является подсетью более крупной сети
+Сеть 291. 109.197.0.0/21 
+является подсетью более крупной сети
+Сеть 292. 109.197.176.0/21 
+является подсетью более крупной сети
+Сеть 293. 151.216.8.0/21 
+является подсетью более крупной сети
+Сеть 294. 176.107.112.0/21 
+является подсетью более крупной сети
+Сеть 295. 176.126.48.0/21 
+является подсетью более крупной сети
+Сеть 296. 178.216.192.0/21 
+является подсетью более крупной сети
+Сеть 297. 178.217.0.0/21 
+является подсетью более крупной сети
+Сеть 298. 188.191.224.0/21 
+является подсетью более крупной сети
+Сеть 299. 188.239.176.0/21 
+является подсетью более крупной сети
+Сеть 300. 192.166.208.0/21 
+является подсетью более крупной сети
+Сеть 301. 193.23.8.0/21 
+является подсетью более крупной сети
+Сеть 302. 193.25.200.0/21 
+является подсетью более крупной сети
+Сеть 303. 193.30.80.0/21 
+является подсетью более крупной сети
+Сеть 304. 193.32.118.0/21 
+является подсетью более крупной сети
+Сеть 305. 193.47.226.0/21 
+является подсетью более крупной сети
+Сеть 306. 193.58.136.0/21 
+является подсетью более крупной сети
+Сеть 307. 193.109.152.0/21 
+является подсетью более крупной сети
+Сеть 308. 193.134.80.0/21 
+является подсетью более крупной сети
+Сеть 309. 193.135.32.0/21 
+является подсетью более крупной сети
+Сеть 310. 193.150.180.0/21 
+является подсетью более крупной сети
+Сеть 311. 193.160.40.0/21 
+является подсетью более крупной сети
+Сеть 312. 193.160.56.0/21 
+является подсетью более крупной сети
+Сеть 313. 193.161.224.0/21 
+является подсетью более крупной сети
+Сеть 314. 193.176.32.0/21 
+является подсетью более крупной сети
+Сеть 315. 193.176.96.0/21 
+является подсетью более крупной сети
+Сеть 316. 193.177.152.0/21 
+является подсетью более крупной сети
+Сеть 317. 193.177.224.0/21 
+является подсетью более крупной сети
+Сеть 318. 193.177.248.0/21 
+является подсетью более крупной сети
+Сеть 319. 193.201.8.0/21 
+является подсетью более крупной сети
+Сеть 320. 193.228.64.0/21 
+является подсетью более крупной сети
+Сеть 321. 193.236.144.0/21 
+является подсетью более крупной сети
+Сеть 322. 193.243.184.0/21 
+является подсетью более крупной сети
+Сеть 323. 193.246.192.0/21 
+является подсетью более крупной сети
+Сеть 324. 193.247.136.0/21 
+является подсетью более крупной сети
+Сеть 325. 193.247.152.0/21 
+является подсетью более крупной сети
+Сеть 326. 194.4.248.0/21 
+является подсетью более крупной сети
+Сеть 327. 194.11.88.0/21 
+является подсетью более крупной сети
+Сеть 328. 194.26.248.0/21 
+является подсетью более крупной сети
+Сеть 329. 194.36.248.0/21 
+является подсетью более крупной сети
+Сеть 330. 194.37.232.0/21 
+является подсетью более крупной сети
+Сеть 331. 194.39.112.0/21 
+является подсетью более крупной сети
+Сеть 332. 194.53.96.0/21 
+является подсетью более крупной сети
+Сеть 333. 194.59.144.0/21 
+является подсетью более крупной сети
+Сеть 334. 194.61.144.0/21 
+является подсетью более крупной сети
+Сеть 335. 194.62.72.0/21 
+является подсетью более крупной сети
+Сеть 336. 194.62.192.0/21 
+является подсетью более крупной сети
+Сеть 337. 194.69.184.0/21 
+является подсетью более крупной сети
+Сеть 338. 194.93.104.0/21 
+является подсетью более крупной сети
+Сеть 339. 194.107.168.0/21 
+является подсетью более крупной сети
+Сеть 340. 194.113.200.0/21 
+является подсетью более крупной сети
+Сеть 341. 194.120.96.0/21 
+является подсетью более крупной сети
+Сеть 342. 194.124.160.0/21 
+является подсетью более крупной сети
+Сеть 343. 194.124.168.0/21 
+является подсетью более крупной сети
+Сеть 344. 194.180.96.0/21 
+является подсетью более крупной сети
+Сеть 345. 194.180.120.0/21 
+является подсетью более крупной сети
+Сеть 346. 194.246.64.0/21 
+является подсетью более крупной сети
+Сеть 347. 195.49.192.0/21 
+является подсетью более крупной сети
+Сеть 348. 213.109.64.0/21 
+является подсетью более крупной сети

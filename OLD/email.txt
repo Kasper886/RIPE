@@ -1,0 +1,15 @@
+5.157.96.0/19
+abuse@ngi.it lir@ngi.it network@ngi.it 
+
+5.198.192.0/19
+info@hopus.net noc@hopus.net abuse@hopus.net ripe@hopus.net ripe@ajova.net abuse@ajova.net noc@ajova.net 
+
+5.254.192.0/19
+registrar@net1.se peter.borgfors@net1.se abuse@net1.se 
+
+23.111.32.0/19
+ripe@exepto.ru noc@exepto.ru abuse@exepto.ru serg@exepto.ru abuse@servers.ru bk@servers.com noc@netflow.ru 
+
+23.111.192.0/19
+ripe@exepto.ru noc@exepto.ru abuse@exepto.ru serg@exepto.ru abuse@servers.ru bk@servers.com noc@netflow.ru 
+
